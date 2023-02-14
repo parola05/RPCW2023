@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <título>Trabalho Prático 1</título>
+        <subtítulo>Criação de uma página Web sobre o tema Henriqueta</subtítulo>
+        <data>2023-01-14</data>
+        <autor>
+            <nome>Henrique Parola Meziara da Costa<nome>
+            <id>PG50415<id>
+            <gitlink>https://github.com/henriqueparola/RPCW2023</gitlink>
+        </autor> 
+        <uc>Representação e Processamento de Conhecimento na Web</uc>
+    </meta>
+    <resumo>
+        <p>TODO <b></b></p>
+        <p>TODO<i></i></p>
+        <p>TODO <xref url=""></xref></p>
+    </resumo>
+    <resultados>
+        <resultado path=""></resultado>
+    </resultados>
+</manifesto>

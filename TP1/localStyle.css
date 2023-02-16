@@ -1,0 +1,79 @@
+html, body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.section{
+    padding: 5px;
+    width: 100%;
+    transition: 0.6s;
+}
+
+.section:hover{
+    cursor: pointer;
+    border: 3px solid rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 5px;
+    width: 100%;
+}
+
+#previewText{
+    -webkit-transition: opacity .5s ease-in-out;
+    -moz-transition: opacity .5s ease-in-out;
+    -ms-transition: opacity .5s ease-in-out;
+    -o-transition: opacity .5s ease-in-out;
+    transition: opacity .5s ease-in-out;
+}
+
+.nome:hover{
+    background-color: rgb(67, 67, 67);
+    cursor: pointer;
+}
+
+
+@keyframes arrows {
+    from {transform: translate(0,0);}
+    to {transform: translate(0,50px);}
+}
+
+.move {
+    animation-name: arrows;
+    animation-duration: 1.4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate-reverse;
+}
+
+@keyframes arrows2 {
+    from {transform: translate(0,0);}
+    to {transform: translate(0,40px);}
+}
+
+.move2 {
+    animation-name: arrows2;
+    animation-duration: 1.4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate-reverse;
+}
+
+.move:hover {
+    cursor: pointer;
+}
+
+.move2:hover {
+    cursor: pointer;
+}
+
+@keyframes background-anim {
+    0% {background-image: url('img-fundo.jpg');}
+    50% {background-image: url('img-fundo2.jpg')}
+    100% {background-image: url('img-fundo3.jpg')}
+}
+
+.background {
+    animation-name: background-anim;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    animation-direction: alternate-reverse;
+}

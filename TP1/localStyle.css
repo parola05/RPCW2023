@@ -66,13 +66,14 @@ html, body{
 
 @keyframes background-anim {
     0% {background-image: url('img-fundo.jpg');}
-    50% {background-image: url('img-fundo2.jpg')}
+    33% {background-image: url('img-fundo4.jpg')}
+    66% {background-image: url('img-fundo2.jpg')}
     100% {background-image: url('img-fundo3.jpg')}
 }
 
 .background {
     animation-name: background-anim;
-    animation-duration: 10s;
+    animation-duration: 15s;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
     animation-direction: alternate-reverse;

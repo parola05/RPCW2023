@@ -7,11 +7,8 @@ const popularidadeInnerHtmlStandart = popularidadeElement.innerHTML
 const informacoesElement = document.getElementById("informacoes");
 const informacoesInnerHtmlStandart = informacoesElement.innerHTML
 
-const verMaisString = '<div class="row d-flex align-items-center section" id="verMaisSignificado"><div class="col-auto"><i class="fas fa-arrow-right fa-lg text-white"></i></div><div class="col-auto"><h3 class="text-white">Ver mais</h3></div></div>'
-
 significadoElement.addEventListener("mouseenter", (event) => {
     // event.target.style.color = "purple";
-    significadoElement.innerHTML = '<a href="#significadoSection">'+verMaisString+'</a>'
     var previewText = document.getElementById("previewText")
     previewText.style.opacity = 0;
     setTimeout(function(){ 
@@ -32,7 +29,6 @@ significadoElement.addEventListener("mouseleave", (event) => {
 
 personalidadeElement.addEventListener("mouseenter", (event) => {
     // event.target.style.color = "purple";
-    personalidadeElement.innerHTML = '<a href="#personalidadeSection">'+verMaisString+'</a>'
     var previewText = document.getElementById("previewText")
     previewText.style.opacity = 0;
     setTimeout(function(){ 
@@ -52,7 +48,6 @@ personalidadeElement.addEventListener("mouseleave", (event) => {
 
 popularidadeElement.addEventListener("mouseenter", (event) => {
     // event.target.style.color = "purple";
-    popularidadeElement.innerHTML = '<a href="#popularidadeSection">'+verMaisString+'</a>'
     var previewText = document.getElementById("previewText")
     previewText.style.opacity = 0;
     setTimeout(function(){ 
@@ -72,7 +67,6 @@ popularidadeElement.addEventListener("mouseleave", (event) => {
 
 informacoesElement.addEventListener("mouseenter", (event) => {
     // event.target.style.color = "purple";
-    informacoesElement.innerHTML = '<a href="#informacoesSection">'+verMaisString+'</a>'
     var previewText = document.getElementById("previewText")
     previewText.style.opacity = 0;
     setTimeout(function(){ 

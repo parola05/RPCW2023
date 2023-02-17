@@ -12,11 +12,20 @@
         <uc>Representação e Processamento de Conhecimento na Web</uc>
     </meta>
     <resumo>
-        <p>TODO <b></b></p>
-        <p>TODO<i></i></p>
-        <p>TODO <xref url=""></xref></p>
+        <p> Este projeto consiste de uma página Web com o tema <b>"Henriqueta"</b>. Construiu-se a página com 
+        recurso à HTML, CSS e JavaScript.</p>
+        <p> O intuito de tal Website foi praticar o uso da linguagem HTML. Dentre os recursos
+        utilizados, podem-se listar: <i>listas</i>, <i>tabelas</i>, <i>divs</i>, <i> navbar </i>, <i>parágrafos</i>, diferentes
+        níveis de <i>títulos</i> e <i>bookmarks</i>. Quanto ao CSS e Javascript, utilizou-se a <i>framework</i>
+        Bootstrap via CDN por jsDelivery. Para além disto também foram criados ficheiros locais para alguns estilos
+        e animações específicadas criadas para a <i>webpage</i>.</p>
+        <p> Em suma, neste mesmo diretório, existe o ficheiro HTML <xref url="index.html"> index </xref>, 
+        o ficheiro <xref url="localStyle.css"> localStyle </xref> e <xref url="localJS.js"> localJS </xref>. Para além
+        disto, ainda há 4 imagens utilizadas na <i>webpage</i></p>
     </resumo>
     <resultados>
-        <resultado path=""></resultado>
+        <resultado path="index.html">Ficheiro HTML</resultado>
+        <resultado path="localStyle.css">Ficheiro CSS</resultado>
+        <resultado path="localJS.js">Ficheiro JavaScript</resultado>
     </resultados>
 </manifesto>

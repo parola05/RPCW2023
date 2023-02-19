@@ -12,16 +12,24 @@
         <uc>Representação e Processamento de Conhecimento na Web</uc>
     </meta>
     <resumo>
-        <p> Este projeto consiste de uma página Web com o tema <b>"Henriqueta"</b>. Construiu-se a página com 
-        recurso à HTML, CSS e JavaScript.</p>
-        <p> O intuito de tal Website foi praticar o uso da linguagem HTML. Dentre os recursos
+        <p> Este projeto consiste na criação de uma página Web com o tema <b>"Henriqueta"</b>. Construiu-se a página com 
+        recurso à <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b>.</p>
+        <p> O intuito do desenvolvimento de tal <i>webpage</i> foi praticar o uso da linguagem HTML. Dentre os recursos
         utilizados, podem-se listar: <i>listas</i>, <i>tabelas</i>, <i>divs</i>, <i> navbar </i>, <i>parágrafos</i>, diferentes
         níveis de <i>títulos</i> e <i>bookmarks</i>. Quanto ao CSS e Javascript, utilizou-se a <i>framework</i>
         Bootstrap via CDN por jsDelivery. Para além disto também foram criados ficheiros locais para alguns estilos
-        e animações específicadas criadas para a <i>webpage</i>.</p>
+        e animações específicamente criadas para a <i>webpage</i>.</p>
+        <p>A página Web possui nomeadamente quatro componentes principais. Uma <b>Navbar</b> contendo alguns botões como o botão de retorno 
+        ao início da página, botão de encaminhamento a secção de referências e disponibilização dos meus contactos de trabalho. 
+        Uma <b>Capa</b>, contendo uma breve descrição da plataforma, assim como uma espécie de índice, que contém <i>bookmarks</i> para 
+        cada uma das quatro secções da <i>webpage</i>. Ainda há uma simples animação contendo um resumo de cada secção ao passar o rato 
+        por cima do índice. Existem ainda quatro <b>secções de conteúdo</b: significado do nome Henriqueta; personalidade; popularidade e informações 
+        sobre o nome. Por fim, há uma secção de <b>Referências</b>, onde são expostos alguns <i>links</i> para os sites utilizados como fontes 
+        de conteúdo. </p>
         <p> Em suma, neste mesmo diretório, existe o ficheiro HTML <xref url="index.html"> index </xref>, 
-        o ficheiro <xref url="localStyle.css"> localStyle </xref> e <xref url="localJS.js"> localJS </xref>. Para além
-        disto, ainda há 4 imagens utilizadas na <i>webpage</i></p>
+        o ficheiro CSS <xref url="localStyle.css"> localStyle </xref> e o ficheiro JavaScript <xref url="localJS.js"> localJS </xref>. 
+        Não é necessário ser feito o <i>download</i> das imagens utilizadas na página, uma vez que elas estão 
+        armazenadas no repositório do github e invocadas através de <i>links</i> par ao próprio repositório</p>.
     </resumo>
     <resultados>
         <resultado path="index.html">Ficheiro HTML</resultado>

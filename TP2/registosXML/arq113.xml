@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Crasto
+ </IDENTI>
+ <DESCRI>
+  Igreja
+ </DESCRI>
+ <CRONO>
+  Idade MÃ©dia
+ </CRONO>
+ <LUGAR>
+  Crasto
+ </LUGAR>
+ <FREGUE>
+  Crasto
+ </FREGUE>
+ <CONCEL>
+  Ponte da Barca
+ </CONCEL>
+ <CODADM>
+  160605
+ </CODADM>
+ <LATITU>
+  534
+ </LATITU>
+ <LONGIT>
+  175,3
+ </LONGIT>
+ <ALTITU>
+  107m
+ </ALTITU>
+ <ACESSO>
+  O acesso Ã  igreja faz-se por estrada municipal a partir da estrada EN.101,
+no sentido Ponte da Barca / Braga. O templo fica Ã  margem da estrada
+municipal, lado nascente, cerca de 4,5 km para Sudoeste da sede do concelho.
+O monumento estÃ¡ sinalizado.
+ </ACESSO>
+ <DESARQ>
+  A actual igreja paroquial de Crasto era o templo do antigo mosteiro de S.
+Martinho do Crasto que, em 1136, o nobre Onerico Soeiro, "senhor de Crasto",
+doou aos cÃ³negos regrantes de Santo Agostinho. O arcebispo bracarense JoÃ£o
+Peculiar confirmou a doaÃ§Ã£o em 1142 e o seu sucessor Godinho consagrou a
+igreja em 1182. Por esta altura Afonso Henriques ter-lhe-Ã¡ outorgado couto,
+conforme testemunham os jurados nas "InquiriÃ§Ãµes" de 1258. A comunidade
+monÃ¡stica de S. Martinho de Crasto ultrapassou as crises dos sÃ©culos XIV e
+XV, sobrevivendo atÃ© Ã  extinÃ§Ã£o geral das ordens monÃ¡sticas no segundo
+quartel do sÃ©culo XIX. DeverÃ¡ datar de finais do sÃ©culo XII e primeiro
+quartel do sÃ©culo XIII a edificaÃ§Ã£o romÃ¢nica da igreja de S. Martinho de
+Crasto, edifÃ­cio do qual pouco chegou aos nossos dias. Limitadas pelas
+condicionantes da implantaÃ§Ã£o topogrÃ¡fica, as diversas reconstruÃ§Ãµes e
+ampliaÃ§Ãµes, reaproveitando embora toda a excelente
+  <LIGA TERMO="silhar">
+   silharia
+  </LIGA>
+  e elementos decorativos da fÃ¡brica original (
+  <LIGA TERMO="aduela">
+   aduelas
+  </LIGA>
+  de
+  <LIGA TERMO="arquivolta">
+   arquivoltas
+  </LIGA>
+  decoradas com "lanceolados"), acabaram por deixar apenas
+as cachorradas com
+  <LIGA TERMO="modilhÃ£o">
+   modilhÃµes
+  </LIGA>
+  esculpidos, a
+metade inferior da torre defensiva sobre a fachada e alguns pequenos vÃ£os de
+  <LIGA TERMO="fresta">
+   frestas
+  </LIGA>
+  , fechados.
+ </DESARQ>
+ <INTERP>
+  Igreja medieval.
+ </INTERP>
+ <INTERE>
+  Trata-se de um monumento com significado histÃ³rico local e algum valor
+cientÃ­fico e patrimonial, interessando Ã  compreensÃ£o da difusÃ£o das ordens
+monÃ¡sticas e do
+  <LIGA TERMO="romÃ¢nico">
+   romÃ¢nico
+  </LIGA>
+  na regiÃ£o. PorÃ©m, e
+embora razoavelmente conservados, os elementos descritos nÃ£o tÃªm, no
+contexto regional, pela sua escassez e carÃ¡cter truncado, grande valor
+patrimonial.
+ </INTERE>
+ <BIBLIO>
+  ALMEIDA, C.A.F.(1978). Arquitectura RomÃ¢nica de Entre Douro e Minho, Tese de
+Doutoramento (policopiada), Faculdade de Letras da Universidade do Porto,
+Porto, 1978.
+ </BIBLIO>
+ <BIBLIO>
+  ALMEIDA, C.A.F.(1986). HistÃ³ria da Arte em Portugal. 2: O romÃ¢nico. Lisboa,
+1986, pp.104.
+ </BIBLIO>
+ <BIBLIO>
+  ALMEIDA, C.A.F.(1987). Carlos Alberto Ferreira de Almeida - Alto Minho,
+(novos guias de Portugal, 5), Editorial PresenÃ§a, Lisboa, 1987.
+ </BIBLIO>
+ <BIBLIO>
+  BARREIROS, M.A.(1926). Egrejas e Capelas Romanicas da Ribeira Lima, EdiÃ§Ãµes
+Marques Abreu, Porto, 1926.
+ </BIBLIO>
+ <BIBLIO>
+  GRAF, G.N. e GUSMÃO N.(1988). Portugal Roman / 2, Ediciones Encuentro,
+Madrid, 1988.
+ </BIBLIO>
+ <AUTOR>
+  Luis Fontes
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

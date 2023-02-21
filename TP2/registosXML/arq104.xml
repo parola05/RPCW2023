@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Igreja Velha de Salto
+ </IDENTI>
+ <DESCRI>
+  Igreja;
+  <LIGA TERMO="necrÃ³pole">
+   NecrÃ³pole
+  </LIGA>
+  medieval
+ </DESCRI>
+ <CRONO>
+  Idade MÃ©dia
+ </CRONO>
+ <LUGAR>
+  Salto
+ </LUGAR>
+ <FREGUE>
+  Montalegre
+ </FREGUE>
+ <CONCEL>
+  Montalegre
+ </CONCEL>
+ <CODADM>
+  170626
+ </CODADM>
+ <LATITU>
+  518,9
+ </LATITU>
+ <LONGIT>
+  215,6
+ </LONGIT>
+ <ALTITU>
+  850m
+ </ALTITU>
+ <ACESSO>
+  Centro da aldeia de Salto. O acesso faz-se por rua que liga directamente Ã 
+estrada EN 311, que atravessa a povoaÃ§Ã£o. O monumento nÃ£o estÃ¡ sinalizado.
+ </ACESSO>
+ <DESARQ>
+  EdifÃ­cio de traÃ§a romÃ¢nica, muito alterado por remodelaÃ§Ãµes e ampliaÃ§Ãµes
+posteriores. Nas paredes Norte e Sul da
+  <LIGA TERMO="nave">
+   nave
+  </LIGA>
+  conserva troÃ§os do primitivo
+  <LIGA TERMO="aparelho isÃ³dono">
+   aparelho
+isÃ³dono
+  </LIGA>
+  , com muitos
+  <LIGA TERMO="silhar">
+   silhares
+  </LIGA>
+  siglados.
+No coroamento das paredes conservam-se ainda alguns
+  <LIGA TERMO="cachorro">
+   cachorros
+  </LIGA>
+  lisos. Deslocados para a traseira da igreja, alinhados na
+bordadura do adro, observam-se quatro arcas tumulares cobertas com tampas em
+"duas Ã¡guas", todas com decoraÃ§Ã£o e inscriÃ§Ãµes. Trata-se de importantes
+vestÃ­gios da
+  <LIGA TERMO="necrÃ³pole">
+   necrÃ³pole
+  </LIGA>
+  baixo-medieval,
+testemunhadores da antiga prÃ¡tica de enterrar os paroquianos no adro
+envolvente da igreja, neste caso possidentes locais. No conjunto trata-se de
+um monumento baixo-medieval razoavelmente conservado, apresentando um adro
+ajardinado agradavelmente arranjado.
+ </DESARQ>
+ <INTERP>
+  Igreja e necrÃ³pole tardo-medievais.
+ </INTERP>
+ <INTERE>
+  Embora o templo nÃ£o possua um significativo valor patrimonial, as tumulaÃ§Ãµes
+constituem peÃ§as de inegÃ¡vel valor artÃ­stico, reveladoras da penetraÃ§Ã£o de
+padrÃµes estÃ©ticos e socio-econÃ³micos que conheceram grande difusÃ£o nos
+sÃ©culos tardo-medievais, pelo que constituem um importante testemunho duma
+prÃ¡tica funerÃ¡ria complexa, enriquecida por tumulaÃ§Ãµes cuidadas.
+ </INTERE>
+ <BIBLIO>
+  FONTES, L.(1992). SÃ­tios e Achados ArqueolÃ³gicos do Concelho de Montalegre.
+Braga, 1992 (ediÃ§Ã£o policopiada da CCRN - Porto).
+ </BIBLIO>
+ <AUTOR>
+  Luis Fontes
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  PoÃ§os Salgueiros
+ </IDENTI>
+ <DESCRI>
+  NecrÃ³pole megalÃ­tica
+ </DESCRI>
+ <CRONO>
+  PrÃ©-HistÃ³ria Recente
+ </CRONO>
+ <LUGAR>
+  PoÃ§os Salgueiros
+ </LUGAR>
+ <FREGUE>
+  TravassÃ³s
+ </FREGUE>
+ <CONCEL>
+  Fafe
+ </CONCEL>
+ <CODADM>
+  030733
+ </CODADM>
+ <LATITU>
+  502,8
+ </LATITU>
+ <LONGIT>
+  192,8
+ </LONGIT>
+ <ALTITU>
+  548m
+ </ALTITU>
+ <ACESSO>
+  AtÃ© Ã  Castanheira pelo C.M. 1643, depois, por estrada florestal que
+atravessa todo o planalto de Santa Marinha.
+ </ACESSO>
+ <QUADRO>
+  Extensa chÃ£ planÃ¡ltica pertencente Ã  bacia hidrogrÃ¡fica do rio Ave..
+ </QUADRO>
+ <DESARQ>
+  Duas pequenas
+  <LIGA TERMO="mamoa">
+   mamoas
+  </LIGA>
+  jÃ¡ violadas e
+semi-destruÃ­das, certamente pertencente Ã  mesma
+  <LIGA TERMO="necrÃ³pole">
+   necrÃ³pole
+  </LIGA>
+  que a
+  <LIGA TERMO="mamoa">
+   mamoa
+  </LIGA>
+  do Monte de Santa
+Marinha.
+ </DESARQ>
+ <INTERP>
+  NecrÃ³pole megalÃ­tica.
+ </INTERP>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

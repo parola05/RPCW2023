@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Castro de Santa LucrÃ©cia de Algeriz; Santa Catarina
+ </IDENTI>
+ <DESCRI>
+  <LIGA TERMO="povoado fortificado">
+   Povoado fortificado
+  </LIGA>
+ </DESCRI>
+ <CRONO>
+  Proto-HistÃ³ria / RomanizÃ§Ã£o
+ </CRONO>
+ <LUGAR>
+  Monte do Galho ou Monte de Vasconcelos
+ </LUGAR>
+ <FREGUE>
+  Santa LucrÃ©cia de Algeriz
+ </FREGUE>
+ <CONCEL>
+  Braga
+ </CONCEL>
+ <CODADM>
+  030339
+ </CODADM>
+ <LATITU>
+  513,6
+ </LATITU>
+ <LONGIT>
+  179,1
+ </LONGIT>
+ <ALTITU>
+  200m
+ </ALTITU>
+ <QUADRO>
+  O monte em que assenta o
+  <LIGA TERMO="castro">
+   castro
+  </LIGA>
+  corresponde ao
+extremo Norte de um esporÃ£o montanhoso, orientado Norte/ Sul, conhecido pelo
+nome de Monte do Galho e de Monte de Vasconcelos. O povoado encontra-se
+virado ao vale do CÃ¡vado, dominando a larga bacia daquele rio.
+ </QUADRO>
+ <TRAARQ>
+  NÃ£o sÃ£o conhecidos quaisquer trabalhos arqueolÃ³gicos no local.
+ </TRAARQ>
+ <DESARQ>
+  Com excepÃ§Ã£o do lado Sul, o monte possui vertentes abruptas, que conferem ao
+povoado boas defesas naturais. Actualmente, sÃ£o visÃ­veis trÃªs linhas de
+muralhas, mais ou menos concÃªntricas, que definem tabuleiros artificiais. No
+entanto, a densa vegetaÃ§Ã£o que cobre o monte nÃ£o deixa perceber quaisquer
+vestÃ­gios de estruturas habitacionais. Ã superfÃ­cie do povoado recolhem-se
+alguns fragmentos de
+  <LIGA TERMO="cerÃ¢mica indÃ­gena">
+   cerÃ¢mica
+indÃ­gena
+  </LIGA>
+  de fabrico
+  <LIGA TERMO="micÃ¡ceo">
+   micÃ¡ceo
+  </LIGA>
+  .
+ </DESARQ>
+ <INTERP>
+  Povoado, fortificado proto-histÃ³rico.
+ </INTERP>
+ <BIBLIO>
+  MARTINS, M. (1990).O Povoamento Proto-HistÃ³rico e a RomanizaÃ§Ã£o da
+Bacia do Curso MÃ©dio do CÃ¡vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga , pp.86-87.
+ </BIBLIO>
+ <BIBLIO>
+  FONTES, L. (1993). InventÃ¡rio de SÃ­tios e Achados arqueolÃ³gicos do
+Concelho de Braga, MÃ­mia, 3Âª SÃ©rie, Ano 1, Braga, pp. 72.
+ </BIBLIO>
+ <AUTOR/>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Miranda
+ </IDENTI>
+ <DESCRI>
+  Igreja
+ </DESCRI>
+ <CRONO>
+  Idade MÃ©dia
+ </CRONO>
+ <LUGAR>
+  Miranda
+ </LUGAR>
+ <FREGUE>
+  Miranda
+ </FREGUE>
+ <CONCEL>
+  Arcos de Valdevez
+ </CONCEL>
+ <CODADM>
+  160121
+ </CODADM>
+ <LATITU>
+  540,7
+ </LATITU>
+ <LONGIT>
+  169,3
+ </LONGIT>
+ <ALTITU>
+  500m
+ </ALTITU>
+ <ACESSO>
+  Junto Ã  aldeia de Miranda. O acesso faz-se por estrada municipal, a partir
+da estrada nacional EN.303 (ligaÃ§Ã£o Arcos de Valdevez - Paredes de Coura). O
+monumento nÃ£o estÃ¡ sinalizado.
+ </ACESSO>
+ <DESARQ>
+  Na capela-mor da actual igreja paroquial de Miranda conserva-se parte da
+  <LIGA TERMO="Ã¡bside">
+   Ã¡bside
+  </LIGA>
+  rectangular do templo
+  <LIGA TERMO="romÃ¢nico">
+   romÃ¢nico
+  </LIGA>
+  que serviu o extinto mosteiro
+  <LIGA TERMO="beneditino">
+   beneditino
+  </LIGA>
+  de Miranda, mosteiro que, coutado pelo
+rei Sancho I em 1207 e posteriormente beneficiado por Afonso II e Afonso
+III, encontraria na exploraÃ§Ã£o pastoril das amplas pastagens planÃ¡lticas do
+territÃ³rio envolvente a principal razÃ£o econÃ³mica da sua implantaÃ§Ã£o. Da
+edificaÃ§Ã£o medieval da igreja deste mosteiro, profundamente alterada por
+sucessivas remodelaÃ§Ãµes, restam alguns troÃ§os de cachorradas com
+  <LIGA TERMO="modilhÃ£o">
+   modilhÃµes
+  </LIGA>
+  lisos, sugerindo uma cronologia em torno
+da primeira metade do sÃ©culo XIII.
+ </DESARQ>
+ <INTERP>
+  Igreja de fundaÃ§Ã£o baixo-medieval.
+ </INTERP>
+ <INTERE>
+  Embora razoavelmente conservados e apesar de interessarem ao estudo da
+difusÃ£o das arquitectura e decoraÃ§Ã£o romÃ¢nicas, os elementos descritos nÃ£o
+tÃªm, no contexto regional, grande valor patrimonial nem revestem particular
+significado histÃ³rico.
+ </INTERE>
+ <BIBLIO>
+  ALMEIDA,C.A.F. (1978a) Arquitectura RomÃ¢nica de Entre Douro e Minho, Tese de
+Doutoramento (policopiada), Faculdade de Letras da Universidade do Porto,
+Porto, 1978.
+ </BIBLIO>
+ <BIBLIO>
+  ALMEIDA, C.A.F. (1987) Alto Minho, (novos guias de Portugal, 5),
+Editorial PresenÃ§a, Lisboa, 1987.
+ </BIBLIO>
+ <AUTOR>
+  LuÃ­s Fontes
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

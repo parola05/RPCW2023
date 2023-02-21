@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Penedos Pintos
+ </IDENTI>
+ <DESCRI>
+  Monumento megalÃ­tico
+ </DESCRI>
+ <CRONO>
+  PrÃ©-HistÃ³ria Recente
+ </CRONO>
+ <LUGAR>
+  Coutada do Professor
+ </LUGAR>
+ <FREGUE>
+  EstorÃ£os
+ </FREGUE>
+ <CONCEL>
+  Fafe
+ </CONCEL>
+ <CODADM>
+  030708
+ </CODADM>
+ <LATITU>
+  503,6
+ </LATITU>
+ <LONGIT>
+  200,1
+ </LONGIT>
+ <ALTITU>
+  630m
+ </ALTITU>
+ <ACESSO>
+  Junto Ã  E.N. 614 (EstorÃ£os-Aboim), 300m abaixo do cruzamento da Cruz de
+Canelhas.
+ </ACESSO>
+ <QUADRO>
+  Zona planÃ¡ltica, integrada na bacia do rio Vizela.
+ </QUADRO>
+ <DESARQ>
+  Grande
+  <LIGA TERMO="mamoa">
+   mamoa
+  </LIGA>
+  , com cerca de 20m de diÃ¢metro, por
+cerca 2,50m de altura. O monumento apresenta forte depressÃ£o central,
+indicador de violaÃ§Ã£o da cÃ¢mara. O estado de conservaÃ§Ã£o Ã© medÃ­ocre.
+ </DESARQ>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Eiras Velhas
+ </IDENTI>
+ <DESCRI>
+  <LIGA TERMO="povoado fortificado">
+   Povoado fortificado
+  </LIGA>
+ </DESCRI>
+ <CRONO>
+  Proto-HistÃ³ria / RomanizaÃ§Ã£o
+ </CRONO>
+ <LUGAR>
+  Eiras Velhas
+ </LUGAR>
+ <FREGUE>
+  Este-S. Mamede
+ </FREGUE>
+ <CONCEL>
+  Braga
+ </CONCEL>
+ <CODADM>
+  030344
+ </CODADM>
+ <LATITU>
+  512,9
+ </LATITU>
+ <LONGIT>
+  182,3
+ </LONGIT>
+ <ALTITU>
+  478m
+ </ALTITU>
+ <ACESSO>
+  O acesso a este povoado faz-se a partir da E. N. 103, no lugar de Rita, atÃ©
+ao campo de futebol local, por estrada florestal.
+ </ACESSO>
+ <QUADRO>
+  A estaÃ§Ã£o ocupa a parte mais elevada do monte de Eiras Velhas, que se
+desenvolve num extenso esporÃ£o, paralelo ao rio CÃ¡vado, na vertente norte da
+Serra do Carvalho. Possui uma posiÃ§Ã£o topogrÃ¡fica assinalÃ¡vel, dominando o
+vale daquele rio.
+ </QUADRO>
+ <TRAARQ>
+  NÃ£o sÃ£o conhecidos quaisquer trabalhos arqueolÃ³gicos no local.
+ </TRAARQ>
+ <DESARQ>
+  O povoado possui quatro linhas de muralhas, mais ou menos concÃªntricas,
+definidas por taludes, que criam tabuleiros artificiais. A zona mais alta
+corresponde a uma extensa acrÃ³pole, onde se assinalam derrubes de estruturas
+cobertas por vegetaÃ§Ã£o rasteira. Num rasgÃ£o do terreno provocado, pela
+abertura de uma estrada florestal, recolhem-se fragmentos de
+  <LIGA TERMO="cerÃ¢mica indÃ­gena">
+   cerÃ¢mica indÃ­gena
+  </LIGA>
+  de fabrico
+  <LIGA TERMO="micÃ¡ceo">
+   micÃ¡ceo
+  </LIGA>
+  e de cerÃ¢mica romana, nomeadamente de
+Ã¢nforas e de
+  <LIGA TERMO="tÃ©gula">
+   tÃ©gulas
+  </LIGA>
+  . Os achados permitem
+considerar que o povoado foi romanizado, devendo ter tido uma certa
+importÃ¢ncia, dada a sua proximidade em relaÃ§Ã£o Ã  via XVII, que passa a meia
+vertente da Serra do Carvalho.
+ </DESARQ>
+ <INTERP>
+  <LIGA TERMO="povoado fortificado">
+   Povoado fortificado
+  </LIGA>
+  romanizado.
+ </INTERP>
+ <INTERE>
+  Apesar de nÃ£o serem perceptÃ­veis estruturas, o local oferece
+interesse paisagÃ­stico sobre o vale do CÃ¡vado, permitindo compreender a
+original implantaÃ§Ã£o dos povoados proto-histÃ³ricos de maior altitude,
+situados na bordadura dos vales
+ </INTERE>
+ <BIBLIO>
+  MARTINS, M. (1990). O Povoamento Proto-HistÃ³rico e a RomanizaÃ§Ã£o da
+Bacia do Curso MÃ©dio do CÃ¡vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 87.
+ </BIBLIO>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Castro de Escariz; Santo Isidoro; Santos Ilus
+ </IDENTI>
+ <DESCRI>
+  <LIGA TERMO="povoado fortificado">
+   Povoado fortificado
+  </LIGA>
+ </DESCRI>
+ <CRONO>
+  Proto-HitÃ³ria / RomanizaÃ§Ã£o
+ </CRONO>
+ <LUGAR>
+  Castro de Escariz
+ </LUGAR>
+ <FREGUE>
+  Escariz-S. Mamede
+ </FREGUE>
+ <CONCEL>
+  Vila Verde
+ </CONCEL>
+ <CODADM>
+  031345
+ </CODADM>
+ <LATITU>
+  518,6
+ </LATITU>
+ <LONGIT>
+  166,5
+ </LONGIT>
+ <ALTITU>
+  235m
+ </ALTITU>
+ <ACESSO>
+  O acesso a este povoado faz-se a partir de Escariz.
+ </ACESSO>
+ <QUADRO>
+  O monte onde assenta o
+  <LIGA TERMO="castro">
+   castro
+  </LIGA>
+  ocupa o extremo
+norte de uma estreita crista montanhosa, que se desenvolve no sentido
+Norte/Sul, entre S. Martinho de Escariz e Parada de Gatim, paralela ao rio
+Neiva, tendo como ponto mais alto o lugar de Barrosas, com 248m de
+altitude.
+ </QUADRO>
+ <TRAARQ>
+  NÃ£o sÃ£o conhecidos trabalhos arqueolÃ³gicos no local.
+ </TRAARQ>
+ <DESARQ>
+  O povoado possui trÃªs plataformas e trÃªs linhas de muralhas. Ã superfÃ­cie
+recolhem-se fragmentos de
+  <LIGA TERMO="cerÃ¢mica micÃ¡cea">
+   cerÃ¢mica
+micÃ¡cea
+  </LIGA>
+  e
+  <LIGA TERMO="tÃ©gula">
+   tÃ©gulas
+  </LIGA>
+  , sendo visÃ­veis restos
+de construÃ§Ãµes habitacionais. Na Casa do Povo de Escariz existe uma mÃ³
+proveniente do
+  <LIGA TERMO="castro">
+   castro
+  </LIGA>
+  . No Museu Pio XII, em
+Braga estÃ¡ guardada uma pedra decorada proveniente deste mesmo sÃ­tio,
+inventariada com o nÂº 22. A pedra ostenta, numa das faces, dois cordÃµes
+paralelos.
+ </DESARQ>
+ <INTERP>
+  <LIGA TERMO="povoado fortificado">
+   Povoado fortificado
+  </LIGA>
+  romanizado.
+ </INTERP>
+ <DEPOSI>
+  Museu Pio XII, em Braga.
+ </DEPOSI>
+ <BIBLIO>
+  AZEVEDO, P. A.(1898). Extractos archeologicos das memorias
+parochiais de 1758, ArqueÃ³logo PortuguÃªs, 2 (1896). pp.143.
+ </BIBLIO>
+ <BIBLIO>
+  MARTINS, M. (1990) O Povoamento Proto-HistÃ³rico e a RomanizaÃ§Ã£o da Bacia do
+Curso do MÃ©dio CÃ¡vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 101-102.
+ </BIBLIO>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

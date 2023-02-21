@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Monte de Sequeiros
+ </IDENTI>
+ <DESCRI>
+  <LIGA TERMO="povoado fortificado">
+   Povoado fortificado
+  </LIGA>
+ </DESCRI>
+ <CRONO>
+  Proto-HistÃ³ria
+ </CRONO>
+ <LUGAR>
+  Monte de Sequeiros
+ </LUGAR>
+ <FREGUE>
+  Sequeiros
+ </FREGUE>
+ <CONCEL>
+  Amares
+ </CONCEL>
+ <CODADM>
+  030121
+ </CODADM>
+ <LATITU>
+  523,9
+ </LATITU>
+ <LONGIT>
+  180,7
+ </LONGIT>
+ <ALTITU>
+  228m
+ </ALTITU>
+ <ACESSO>
+  O acesso faz-se por caminho de pÃ© posto, a partir do lugar do PaÃ§o, da
+freguesia de Sequeiros.
+ </ACESSO>
+ <QUADRO>
+  O monte de Sequeiros corresponde a um pequeno esporÃ£o da vertente NO da
+serra da Abadia, jÃ¡ praticamente sobranceiro ao rio Homem.
+ </QUADRO>
+ <TRAARQ>
+  NÃ£o sÃ£o conhecidos trabalhos arqueolÃ³gicos no local.
+ </TRAARQ>
+ <DESARQ>
+  A densa cobertura vegetal que cobre o monte dificulta a observaÃ§Ã£o de
+estruturas, ou a detecÃ§Ã£o de cerÃ¢mica. No entanto, a toponÃ­mia, a tradiÃ§Ã£o
+lendÃ¡ria e a notÃ­cia do aparecimento, hÃ¡ alguns anos, de vasos, aliados Ã 
+localizaÃ§Ã£o e condiÃ§Ãµes topogrÃ¡ficas do sÃ­tio, sÃ£o indicativos da existÃªncia
+de um
+  <LIGA TERMO="castro">
+   castro
+  </LIGA>
+  .
+ </DESARQ>
+ <INTERP>
+  Povoado fortificado proto-histÃ³rico.
+ </INTERP>
+ <BIBLIO>
+  SILVA, D. M. (1958-59). Entre Homem e CÃ¡vado, Amares. Monografia do
+concelho de Amares e Terras de Bouro, Amares, pp. 353-355
+ </BIBLIO>
+ <BIBLIO>
+  MARTINS, M. (1990). O Povoamento Proto-HistÃ³rico e a romanizaÃ§Ã£o da Bacia do
+Curso do MÃ©dio CÃ¡vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 71.
+ </BIBLIO>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-Fev-1998
+ </DATA>
+</ARQELEM>

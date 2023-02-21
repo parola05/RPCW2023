@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Ribeira da Pala; Dornelas; Paredes Secas
+ </IDENTI>
+ <DESCRI>
+  <LIGA TERMO="miliÃ¡rio">
+   MiliÃ¡rio
+  </LIGA>
+ </DESCRI>
+ <CRONO>
+  RomanizaÃ§Ã£o
+ </CRONO>
+ <LUGAR>
+  Na margem direita da Ribeira da Pala
+ </LUGAR>
+ <FREGUE>
+  Paredes Secas
+ </FREGUE>
+ <CONCEL>
+  Amares
+ </CONCEL>
+ <CODADM>
+  030115
+ </CODADM>
+ <LATITU>
+  520,9
+ </LATITU>
+ <LONGIT>
+  183,6
+ </LONGIT>
+ <ALTITU>
+  260m
+ </ALTITU>
+ <ACESSO>
+  O miliÃ¡rio encontra-se no adro da igreja paroquial de Paredes
+Secas.
+ </ACESSO>
+ <QUADRO>
+  O miliÃ¡rio foi encontrado, em 1957, na margem direita da Ribeira da Pala, em
+Dornelas, nÃ£o muito longe do local onde tradicionalmente se admite a
+passagem da Via Nova.
+ </QUADRO>
+ <DESARQ>
+  O miliÃ¡rio estÃ¡ fracturado e apresenta a inscriÃ§Ã£o muito gasta. A
+sua leitura Ã© difÃ­cil, devido, tambÃ©m, Ã  qualidade do granito, que apresenta
+muitos cristais de quartzo, que dificultaram a gravaÃ§Ã£o. Altura: 159;
+diÃ¢metro: 66; Letras: 7 e 8.
+
+[IMP(erator) CAES(ar) G(aius)] IVLIV[S] V[ERVS] / MAXIMINVS P(ius).
+F(elix).AVG(ustus). TRIB(unicia) PO / [TE]S[TATE]. [CO](n)S(ul). [PRO]
+CO(n)S(ul) [ET ] G(aius) IVLIVS VERVS MAXIMVS / NOBILISSIMVS CAESAR /
+GERM(anicus) MAX(imus) DAC(ius) MAX(imus) / PRINCEPS IVVENTVTIS FILIVS
+D(omini) N(ostri) IMP(eratoris) G(aii) IVLI(i) / VERI MAXIMINI P(ii)
+F(elici) AVG(usti) / CVRANTE Q(uinto) DECI[O VALER(iano)] / LEG(ato)
+AVG(usti) PR(o) [PR(etore)] / [BR]AC(ara) AVG(usta) M(ilia) P(assuum) XII
+(duodecim).
+
+Imperador CÃ©sar Gaio JÃºlio Vero Maximino, Pio, Feliz, Augusto, dotado de
+poder tribunÃ­cio, cÃ´nsul, procÃ´nsul, e Gaio JÃºlio Vero MÃ¡ximo, mui nobre
+CÃ©sar, GermÃ¢nico MÃ¡ximo, DÃ¡cico MÃ¡ximo, SarmÃ¢ntico MÃ¡ximo, PrÃ­ncipe da
+juventude, filho do nosso senhor Imperador Gaio JÃºlio Vero MÃ¡ximo, Pio,
+Feliz, Augusto. Sendo encarregado Quinto DÃ©cio Valeriano, legado de Augusto,
+propretor. De Braga sÃ£o doze milhas.
+ </DESARQ>
+ <INTERP>
+  MiliÃ¡rio pertencente Ã  Via Nova (Geira), datado de
+236-238.
+ </INTERP>
+ <BIBLIO>
+  CUNHA, A. R. (1961). Um miliÃ¡rio inÃ©dito, O Distrito de Braga, 1
+(3-4), Braga, pp.319-334.
+ </BIBLIO>
+ <BIBLIO>
+  MARTINS, M. (1990) O Povoamento Proto-HistÃ³rico e a RomanizaÃ§Ã£o da
+Bacia do Curso do MÃ©dio CÃ¡vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 68-69.
+ </BIBLIO>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

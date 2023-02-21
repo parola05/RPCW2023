@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Castro de Caldelas; Monte das Caldas; Outeiro de S. SebastiÃ£o
+ </IDENTI>
+ <DESCRI>
+  <LIGA TERMO="povoado fortificado">
+   Povoado fortificado
+  </LIGA>
+ </DESCRI>
+ <LUGAR>
+  S. SebastiÃ£o
+ </LUGAR>
+ <FREGUE>
+  Caldelas
+ </FREGUE>
+ <CONCEL>
+  Amares
+ </CONCEL>
+ <CODADM>
+  030106
+ </CODADM>
+ <LATITU>
+  180,0
+ </LATITU>
+ <LONGIT>
+  522,35
+ </LONGIT>
+ <ALTITU>
+  222m
+ </ALTITU>
+ <ACESSO>
+  O acesso faz-se a partir de Caldelas, por caminho
+carreteiro.
+ </ACESSO>
+ <QUADRO>
+  O povoado assenta num pequeno outeiro, bem destacado no vale do rio Homem. O
+monte encontra-se densamente arborizado.
+ </QUADRO>
+ <TRAARQ>
+  NÃ£o sÃ£o conhecidos quaisquer trabalhos arqueolÃ³gicos no local.
+ </TRAARQ>
+ <DESARQ>
+  A cobertura vegetal do cabeÃ§o nÃ£o deixa perceber quaisquer
+estruturas Ã  superfÃ­cie. Todavia Ã© possÃ­vel identificar algum material de
+derrube, nos locais onde passariam as muralhas. Desconhece-se se o povoado
+terÃ¡ sido romanizado.
+ </DESARQ>
+ <INTERP>
+  <LIGA TERMO="povoado fortificado">
+   povoado fortificado
+  </LIGA>
+  proto-histÃ³rico.
+ </INTERP>
+ <BIBLIO>
+  SILVA, D. M. (1958-59). Entre Homem e CÃ¡vado, Amares. Monografia do concelho
+de Amares e Terras de Bouro, Amares. pp. 229;
+ </BIBLIO>
+ <BIBLIO>
+  JORGE, S. O. e J. J. RIGAUD de SOUSA (1980). Resultados preliminares de uma
+sondagem na estaÃ§Ã£o arqueolÃ³gica de ChÃ£ do
+  <LIGA TERMO="castro">
+   castro
+  </LIGA>
+  (Amares, Braga), I SeminÃ¡rio de Arqueologia do Noroeste
+PenÃ­nsular, 2, GuimarÃ£es, pp.120.
+ </BIBLIO>
+ <BIBLIO>
+  MARTINS, M. (1990). O Povoamento Proto-HistÃ³rico e a romanizaÃ§Ã£o da Bacia do
+Curso do MÃ©dio CÃ¡vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 66.
+ </BIBLIO>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-Fev-1998
+ </DATA>
+</ARQELEM>

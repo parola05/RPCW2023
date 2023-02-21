@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  S. SebastiÃ£o
+ </IDENTI>
+ <DESCRI>
+  <LIGA TERMO="povoado fortificado">
+   Povoado fortificado
+  </LIGA>
+ </DESCRI>
+ <CRONO>
+  Proto-HistÃ³ria / RomanizaÃ§Ã£o
+ </CRONO>
+ <LUGAR>
+  S. SebastiÃ£o
+ </LUGAR>
+ <FREGUE>
+  AtiÃ£es
+ </FREGUE>
+ <CONCEL>
+  Vila Verde
+ </CONCEL>
+ <CODADM>
+  031303
+ </CODADM>
+ <LATITU>
+  518,8
+ </LATITU>
+ <LONGIT>
+  170,5
+ </LONGIT>
+ <ALTITU>
+  100m
+ </ALTITU>
+ <QUADRO>
+  O lugar de S. SebastiÃ£o corresponde a um pequeno outeiro de baixa altitude,
+que se destaca bem no largo vale da Ribeira de Febros.
+ </QUADRO>
+ <TRAARQ>
+  NÃ£o sÃ£o conhecidos trabalhos arqueolÃ³gicos no local.
+ </TRAARQ>
+ <DESARQ>
+  Trata-se de um pequeno povoado de baixa altitude, do mesmo gÃ©nero do
+  <LIGA TERMO="castro">
+   castro
+  </LIGA>
+  do Lago, em Amares. EstÃ¡ organizado em funÃ§Ã£o
+de uma Ãºnica plataforma, situada na parte mais alta do monte. Na superfÃ­cie
+do cabeÃ§o encontram-se alguns fragmentos de
+  <LIGA TERMO="cerÃ¢mica indÃ­gena">
+   cerÃ¢mica indÃ­gena
+  </LIGA>
+  e romanizada.
+ </DESARQ>
+ <INTERP>
+  <LIGA TERMO="povoado fortificado">
+   Povoado fortificado
+  </LIGA>
+  romanizado.
+ </INTERP>
+ <BIBLIO>
+  MARTINS, M. (1990) O Povoamento Proto-HistÃ³rico e a RomanizaÃ§Ã£o da
+Bacia do Curso MÃ©dio do CÃ vado, Cadernos de Arqueologia - Monogtrafias, 5,
+Universidade do Minho, Braga, pp. 95-96.
+ </BIBLIO>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

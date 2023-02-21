@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Ponte Velha
+ </IDENTI>
+ <DESCRI>
+  Ponte
+ </DESCRI>
+ <CRONO>
+  Idade MÃ©dia
+ </CRONO>
+ <LUGAR>
+  Ponte Velha
+ </LUGAR>
+ <FREGUE>
+  Vila da Ponte
+ </FREGUE>
+ <CONCEL>
+  Montalegre
+ </CONCEL>
+ <CODADM>
+  170635
+ </CODADM>
+ <LATITU>
+  528,2
+ </LATITU>
+ <LONGIT>
+  219,9
+ </LONGIT>
+ <ALTITU>
+  700m
+ </ALTITU>
+ <ACESSO>
+  No extremo setentrional da aldeia de Vila da Ponte. O acesso faz-se a pÃ©
+(cerca de 5 minutos), por largo estradÃ£o de terra parcialmente lajeado, a
+partir da aldeia de Vila da Ponte, situada Ã  margem da estrada EN 103. O
+monumento nÃ£o estÃ¡ sinalizado.
+ </ACESSO>
+ <DESARQ>
+  Ponte de tradiÃ§Ã£o arquitectÃ³nica medieval, lanÃ§ada sobre o rio RabagÃ£o numa
+zona larga do rio, servindo a antiga via de penetraÃ§Ã£o no baixo-Barroso ao
+longo do vale do RabagÃ£o, cujo traÃ§ado remonta jÃ¡ ao tempo da dominaÃ§Ã£o
+romana (via Braga - Chaves). Ã uma obra de excelente execuÃ§Ã£o, solidamente
+assente no leito granÃ­tico do rio e bem encaixada nas das margens. O
+tabuleiro, em cavalete, com guardas pÃ©treas, Ã© lajeado e de largura mediana,
+elevando-se em cavalete sobre trÃªs arcos: dois de volta perfeita, de
+tamanhos distintos, acrescentados nos finais do sÃ©culo XIX; um maior,
+de
+  <LIGA TERMO="arco">
+   arco
+  </LIGA>
+  apontado, reconstruÃ­do em 1625, conforme
+inscriÃ§Ã£o no plinto do cruzeiro do topo Norte. Os arcos apresentam um
+  <LIGA TERMO="aparelho">
+   aparelho
+  </LIGA>
+  regular de grande qualidade, menos cuidado
+nos paramentos. Podendo nÃ£o ser uma construÃ§Ã£o cronologicamente medieval,
+revela caracterÃ­sticas tÃ©cnicas e formais dessa Ã©poca, substituindo talvez
+uma ponte mais antiga que a via que por aÃ­ passava exigiria. O monumento e a
+envolvÃªncia paisagÃ­stica apresentam-se muito bem conservadas.
+ </DESARQ>
+ <INTERP>
+  Ponte de fundaÃ§Ã£o medieval.
+ </INTERP>
+ <INTERE>
+  A Ponte Velha de Vila da Ponte Ã© um monumento de inegÃ¡vel valor patrimonial,
+afirmando-se igualmente, ao dar o nome Ã  aldeia, como um importante legado
+histÃ³rico.
+ </INTERE>
+ <BIBLIO>
+  BARRADAS, A.L.(1956). Vias romanas das regiÃµes de Chaves e BraganÃ§a.
+Revista de GuimarÃ£es, 66 (1-2), GuimarÃ£es, 1956, pp. 159-241.
+ </BIBLIO>
+ <BIBLIO>
+  BAPTISTA, J.D.(1990) Via Prima (A Via Imperial Romana de Braga/Astorga).
+Aquae Flaviae, 3, Chaves, 1990, pp.135-182.
+ </BIBLIO>
+ <BIBLIO>
+  FONTES, L.(1992). SÃ­tios e Achados ArqueolÃ³gicos do Concelho de Montalegre.
+Braga, 1992 (ediÃ§Ã£o policopiada da CCRN - Porto).
+ </BIBLIO>
+ <AUTOR>
+  Luis Fontes
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

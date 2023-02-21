@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  ChÃ£ do Fojo; Lage Branca
+ </IDENTI>
+ <DESCRI>
+  NecrÃ³pole megalÃ­tica
+ </DESCRI>
+ <CRONO>
+  PrÃ©-HistÃ³ria Recente
+ </CRONO>
+ <LUGAR>
+  Alto de Pebrigue
+ </LUGAR>
+ <FREGUE>
+  Gontim
+ </FREGUE>
+ <CONCEL>
+  Fafe
+ </CONCEL>
+ <CODADM>
+  030715
+ </CODADM>
+ <LATITU>
+  508,7
+ </LATITU>
+ <LONGIT>
+  200,5
+ </LONGIT>
+ <ALTITU>
+  850m
+ </ALTITU>
+ <ACESSO>
+  Faz-se pela estrada que sai de Luilhas, em direcÃ§Ã£o a Vieira do Minho.
+ </ACESSO>
+ <QUADRO>
+  Os monumentos localizam-se num planalto que domina Luilhas, prÃ³ximo do Fojo
+de Luilhas.
+ </QUADRO>
+ <DESARQ>
+  Duas
+  <LIGA TERMO="mamoa">
+   mamoas
+  </LIGA>
+  muito erodidas, jÃ¡ sem esteios, que
+deveria pertencer a uma necrÃ³pole megalÃ­tica que se estendia pelo planalto.
+ </DESARQ>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

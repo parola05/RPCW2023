@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Sezelhe
+ </IDENTI>
+ <DESCRI>
+  Igreja;
+  <LIGA TERMO="sarcÃ³fago">
+   SarcÃ³fago
+  </LIGA>
+ </DESCRI>
+ <LUGAR>
+  Sezelhe
+ </LUGAR>
+ <FREGUE>
+  Sezelhe
+ </FREGUE>
+ <CONCEL>
+  Montalegre
+ </CONCEL>
+ <CODADM>
+  170630
+ </CODADM>
+ <LATITU>
+  538,1
+ </LATITU>
+ <LONGIT>
+  221,3
+ </LONGIT>
+ <ALTITU>
+  912m
+ </ALTITU>
+ <ACESSO>
+  Centro da aldeia de Sezelhe. O acesso faz-se pela estrada municipal que liga
+a povoaÃ§Ã£o directamente Ã  estrada EN 308, na direcÃ§Ã£o
+Montalegre-CovelÃ£es-PitÃµes. O monumento nÃ£o estÃ¡ sinalizado.
+ </ACESSO>
+ <DESARQ>
+  Incrustado no banco perimetral que remata interiormente o muro que delimita
+o adro da igreja paroquial, de arquitectura simples e austera, observa-se um
+  <LIGA TERMO="sarcÃ³fago">
+   sarcÃ³fago
+  </LIGA>
+  antropomÃ³rfico, em granito,
+colocado com a cavidade sepulcral virada para o adro. Trata-se de vestÃ­gios
+da
+  <LIGA TERMO="necrÃ³pole">
+   necrÃ³pole
+  </LIGA>
+  baixo-medieval, testemunhadores
+da antiga prÃ¡tica de enterrar os paroquianos no adro envolvente da igreja, Ã 
+sombra protectora do edifÃ­cio sagrado.
+ </DESARQ>
+ <INTERP>
+  Igreja e necrÃ³pole medievais
+ </INTERP>
+ <INTERE>
+  Embora razoavelmente conservado, o elemento descrito, por estar isolado, tem
+um reduzido valor patrimonial, nÃ£o revestindo particular significado
+histÃ³rico.
+ </INTERE>
+ <BIBLIO>
+  FONTES, L.(1991). Roteiro Monumental. NotÃ­cias do Barroso, nÂº 105, Setembro
+de 1991, pp. 4.
+ </BIBLIO>
+ <BIBLIO>
+  FONTES, L.(1992). SÃ­tios e Achados ArqueolÃ³gicos do Concelho de Montalegre.
+Braga, 1992 (ediÃ§Ã£o policopiada da CCRN - Porto).
+ </BIBLIO>
+ <AUTOR>
+  Luis Fontes
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

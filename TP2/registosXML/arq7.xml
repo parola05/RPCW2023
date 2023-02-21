@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Queijeiros
+ </IDENTI>
+ <DESCRI>
+  <LIGA TERMO="povoado fortificado">
+   Povoado fortificado
+  </LIGA>
+ </DESCRI>
+ <CRONO>
+  Proto -HistÃ³ria
+ </CRONO>
+ <LUGAR>
+  Queijeiros
+ </LUGAR>
+ <FREGUE>
+  Abade de Neiva
+ </FREGUE>
+ <CONCEL>
+  Barcelos
+ </CONCEL>
+ <CODADM>
+  030201
+ </CODADM>
+ <LATITU>
+  510,55
+ </LATITU>
+ <LONGIT>
+  156,4
+ </LONGIT>
+ <ALTITU>
+  150m
+ </ALTITU>
+ <ACESSO>
+  O acesso faz-se pela E. N. 103, aproximadamente ao Km 15, no lado esquerdo
+da estrada.
+ </ACESSO>
+ <QUADRO>
+  O povoado localiza-se numa pequena elevaÃ§Ã£o situada numa zona agrÃ­cola,
+relativamente plana e bem irrigada por diversos cursos de Ã¡gua.
+ </QUADRO>
+ <TRAARQ>
+  NÃ£o sÃ£o conhecidos trabalhos arqueolÃ³gicos no local.
+ </TRAARQ>
+ <DESARQ>
+  Nos lados Norte e Oeste do cabeÃ§o sÃ£o ainda visÃ­veis restos de uma
+fortificaÃ§Ã£o, feita com pedras nÃ£o aparelhadas. Na superfÃ­cie recolhem-se
+alguns fragmentos de
+  <LIGA TERMO="tÃ©gula">
+   tÃ©gulas
+  </LIGA>
+  e pedras
+dispersas, provenientes da destruiÃ§Ã£o de estruturas. No entanto, nÃ£o se
+observam quaisquer alinhamentos de muros. O povoado parece ter possuÃ­do
+apenas uma plataforma, podendo, portanto, ser considerado como povoado
+proto-histÃ³rico de baixa altitude, semelhante ao povoado de Lago, em
+Amares.
+ </DESARQ>
+ <INTERP>
+  <LIGA TERMO="povoado fortificado">
+   povoado fortificado
+  </LIGA>
+  proto-histÃ³rico.
+ </INTERP>
+ <BIBLIO>
+  COSTA, A. G.; A. M. FARIA; J. S. CARVALHO (1980). Sondagens
+arqueolÃ³gicas no concelho de Barcelos: Abade de Neiva, Faria e Roriz, I
+SeminÃ¡rio de arqueologia do Noroeste Peninsular, 2, pp. 11.
+ </BIBLIO>
+ <BIBLIO>
+  MARTINS, M. (1990). O Povoamento Proto-HistÃ³rico e romanizaÃ§Ã£o da Bacia do
+Curso do MÃ©dio CÃ¡vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 72-73.
+ </BIBLIO>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-Fev-1998
+ </DATA>
+</ARQELEM>

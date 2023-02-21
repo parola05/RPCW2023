@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Vade S. TomÃ©
+ </IDENTI>
+ <DESCRI>
+  Igreja
+ </DESCRI>
+ <CRONO>
+  Idade MÃ©dia
+ </CRONO>
+ <LUGAR>
+  Igreja
+ </LUGAR>
+ <FREGUE>
+  Vade S.TomÃ©
+ </FREGUE>
+ <CONCEL>
+  Ponte da Barca
+ </CONCEL>
+ <CODADM>
+  160624
+ </CODADM>
+ <LATITU>
+  534,85
+ </LATITU>
+ <LONGIT>
+  177,2
+ </LONGIT>
+ <ALTITU>
+  135m
+ </ALTITU>
+ <ACESSO>
+  No lugar da igreja. O acesso faz-se por curto caminho de terra batida desde
+o largo do cruzeiro, servido pela estrada municipal que liga Ã  estrada
+nacional EN.101. O monumento nÃ£o estÃ¡ sinalizado.
+ </ACESSO>
+ <DESARQ>
+  Nas paredes Norte da
+  <LIGA TERMO="nave">
+   nave
+  </LIGA>
+  e da capela-mor da
+igreja paroquial de Vade S. TomÃ© conservam-se vestÃ­gios
+arquitectÃ³nico-decorativos
+  <LIGA TERMO="romÃ¢nico">
+   romÃ¢nicos
+  </LIGA>
+  ,
+respectivamente parte da cachorrada com
+  <LIGA TERMO="modilhÃ£o">
+   modilhÃµes
+  </LIGA>
+  esculturados e troÃ§os do
+  <LIGA TERMO="entablamento">
+   entabelamento
+  </LIGA>
+  da
+  <LIGA TERMO="cornija">
+   cornija
+  </LIGA>
+  com decoraÃ§Ã£o
+enxaquetada. Ã o que resta da edificaÃ§Ã£o medieval, profundamente alterada
+por sucessivas remodelaÃ§Ãµes, em relaÃ§Ã£o Ã  qual nÃ£o se conhece qualquer
+referÃªncia ou documento coevo que permita conhecer melhor a sua
+histÃ³ria.
+ </DESARQ>
+ <INTERE>
+  Trata-se de um monumento sem relevÃ¢ncia histÃ³rica local e de escasso valor
+cientÃ­fico e patrimonial, interessando apenas Ã  compreensÃ£o da difusÃ£o do
+  <LIGA TERMO="romÃ¢nico">
+   romÃ¢nico
+  </LIGA>
+  na regiÃ£o.
+ </INTERE>
+ <BIBLIO>
+  ALMEIDA,C.A.F.(1987). Alto Minho, (novos guias de Portugal, 5), Editorial
+PresenÃ§a, Lisboa, 1987.
+ </BIBLIO>
+ <AUTOR>
+  Luis Fontes
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

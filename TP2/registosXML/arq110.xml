@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Viade de Baixo
+ </IDENTI>
+ <DESCRI>
+  Igreja;
+  <LIGA TERMO="necrÃ³pole">
+   NecrÃ³pole
+  </LIGA>
+ </DESCRI>
+ <CRONO>
+  Idade Moderna
+ </CRONO>
+ <LUGAR>
+  Viade de Baixo
+ </LUGAR>
+ <FREGUE>
+  Viade de Baixo
+ </FREGUE>
+ <CONCEL>
+  Montalegre
+ </CONCEL>
+ <CODADM>
+  170634
+ </CODADM>
+ <LATITU>
+  532,4
+ </LATITU>
+ <LONGIT>
+  212,5
+ </LONGIT>
+ <ALTITU>
+  926m
+ </ALTITU>
+ <ACESSO>
+  O acesso faz-se pela estrada municipal alcatroada que liga a povoaÃ§Ã£o
+directamente Ã  estrada EN 103, Ã  direita na direcÃ§Ã£o Montalegre - Braga. O
+monumento nÃ£o estÃ¡ sinalizado.
+ </ACESSO>
+ <DESARQ>
+  EdifÃ­cio de arquitectura romÃ¢nica tardia, com troÃ§os de paredes originais de
+  <LIGA TERMO="aparelho isÃ³dono">
+   aparelho isÃ³dono
+  </LIGA>
+  , superiormente
+rematadas com
+  <LIGA TERMO="modilhÃ£o">
+   modilhÃµes
+  </LIGA>
+  lisos. Portal
+setentrional de
+  <LIGA TERMO="arco">
+   arco
+  </LIGA>
+  e
+  <LIGA TERMO="arquivolta">
+   arquivolta
+  </LIGA>
+  lisas, de volta perfeita. Nartex acrescentado tardiamente,
+abrigando vÃ¡rias sepulturas modernas. Em torno da igreja, no interior do
+adro murado, vÃªem-se ainda coberturas de outras sepulturas modernas, algumas
+com decoraÃ§Ã£o simples nas tampas.
+ </DESARQ>
+ <INTERP>
+  Igreja de fundaÃ§Ã£o tardo-medieval; necrÃ³pole moderna.
+ </INTERP>
+ <INTERE>
+  Embora razoavelmente conservados, os elementos descritos nÃ£o tÃªm, no
+contexto regional, grande valor patrimonial nem revestem particular
+significado histÃ³rico.
+ </INTERE>
+ <BIBLIO>
+  COSTA, J. G.(1968). Montalegre e Terras de Barroso. Montalegre, 1968.
+ </BIBLIO>
+ <BIBLIO>
+  FONTES, L.(1992). SÃ­tios e Achados ArqueolÃ³gicos do Concelho de
+Montalegre. Braga, 1992 (ediÃ§Ã£o policopiada da CCRN - Porto).
+ </BIBLIO>
+ <AUTOR>
+  Luis Fontes
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

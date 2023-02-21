@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Lugar de GaiÃ£o
+ </IDENTI>
+ <DESCRI>
+  <LIGA TERMO="povoado fortificado">
+   Povoado fortificado
+  </LIGA>
+ </DESCRI>
+ <CRONO>
+  Proto-HistÃ³ria
+ </CRONO>
+ <LUGAR>
+  Lugar de GaiÃ£o
+ </LUGAR>
+ <FREGUE>
+  Cabanelas
+ </FREGUE>
+ <CONCEL>
+  Vila Verde
+ </CONCEL>
+ <CODADM>
+  021308
+ </CODADM>
+ <LATITU>
+  511,6
+ </LATITU>
+ <LONGIT>
+  170,0
+ </LONGIT>
+ <ALTITU>
+  60/70m
+ </ALTITU>
+ <ACESSO>
+  O acesso mais fÃ¡cil Ã© feito a partir de Parada de Gatim, atravessando o rio
+CÃ¡vado de barca.
+ </ACESSO>
+ <QUADRO>
+  Pequeno cabeÃ§o de baixa altitude, sobranceiro ao rio CÃ¡vado. A zona oeste do
+monte encontra-se alterada pela construÃ§Ã£o de casas e por caminhos.
+ </QUADRO>
+ <TRAARQ>
+  NÃ£o sÃ£o conhecidos trabalhos arqueolÃ³gicos no local.
+ </TRAARQ>
+ <DESARQ>
+  O povoado possui uma Ãºnica plataforma, correspondente Ã  zona mais alta do
+monte. Nos seus limites Ã© possÃ­vel perceber vestÃ­gios de um talude
+defensivo. A Oeste, na zona em que o cabeÃ§o se liga naturalmente a outros,
+formando um pequeno esporÃ£o paralelo ao rio, sÃ£o perceptÃ­veis vestÃ­gios de
+um fosso, que deveria reforÃ§ar a defesa desse lado do povoado. Apesar da sua
+baixa altitude o povoado possui boas defesas naturais, asseguradas pelas
+vertentes mais ou menos abruptas do cabeÃ§o. Na sua superfÃ­cie vÃªem-se pedras
+toscamente aparelhadas e fragmentos de
+  <LIGA TERMO="cerÃ¢mica micÃ¡cea">
+   cerÃ¢mica micÃ¡cea
+  </LIGA>
+  e romana.
+ </DESARQ>
+ <INTERP>
+  <LIGA TERMO="povoado fortificado">
+   Povoado fortificado
+  </LIGA>
+  proto-histÃ³rico.
+ </INTERP>
+ <BIBLIO>
+  MARTINS, M. (1990). O Povoamento Proto-HistÃ³rico e a RomanizaÃ§Ã£o da
+Bacia do Curso MÃ©dio do CÃ¡vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 96-97.
+ </BIBLIO>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

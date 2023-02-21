@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Monte de Riba; BouÃ§a do Senhor
+ </IDENTI>
+ <DESCRI>
+  <LIGA TERMO="necrÃ³pole">
+   NecrÃ³pole
+  </LIGA>
+  megalÃ­tica
+ </DESCRI>
+ <CRONO>
+  PrÃ©-HistÃ³ria Recente
+ </CRONO>
+ <LUGAR>
+  Argande
+ </LUGAR>
+ <FREGUE>
+  Monte
+ </FREGUE>
+ <CONCEL>
+  Fafe
+ </CONCEL>
+ <CODADM>
+  030717
+ </CODADM>
+ <LATITU>
+  506,5
+ </LATITU>
+ <LONGIT>
+  196,7
+ </LONGIT>
+ <ALTITU>
+  680m
+ </ALTITU>
+ <ACESSO>
+  Faz-se a partir C. M. 1637.
+ </ACESSO>
+ <QUADRO>
+  ChÃ£ planÃ¡ltica entre o Monte de Riba e a BouÃ§a do Senhor, pertencente Ã 
+bacia hidrogrÃ¡fica do rio Ave.
+ </QUADRO>
+ <DESARQ>
+  Conjunto de quatro
+  <LIGA TERMO="mamoa">
+   mamoas
+  </LIGA>
+  de dimensÃµes mÃ©dias,
+com cerca de 10 a 15m de diÃ¢metro, todas violadas.
+ </DESARQ>
+ <INTERP>
+  NecrÃ³pole megalÃ­tica.
+ </INTERP>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

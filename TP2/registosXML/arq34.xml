@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Lugar da Igreja; PanÃ³ias
+ </IDENTI>
+ <DESCRI>
+  <LIGA TERMO="miliÃ¡rio">
+   MiliÃ¡rio
+  </LIGA>
+ </DESCRI>
+ <LUGAR>
+  Lugar da Igreja
+ </LUGAR>
+ <FREGUE>
+  PanÃ³ias
+ </FREGUE>
+ <CONCEL>
+  Braga
+ </CONCEL>
+ <CODADM>
+  030332
+ </CODADM>
+ <LATITU>
+  511,6
+ </LATITU>
+ <LONGIT>
+  172,4
+ </LONGIT>
+ <ALTITU>
+  53m
+ </ALTITU>
+ <ACESSO>
+  O miliÃ¡rio encontra-se no Lugar da Igreja, onde serve de
+cruzeiro.
+ </ACESSO>
+ <QUADRO>
+  Foi identificado por Albano Belino, em 1896, no sÃ­tio onde
+actualmente se encontra a servir de cruzeiro. Ignora-se a sua procedÃªncia
+inicial.
+ </QUADRO>
+ <DESARQ>
+  <LIGA TERMO="miliÃ¡rio">
+   MiliÃ¡rio
+  </LIGA>
+  em granito, com epÃ­grafe,
+pertencente Ã  via XIX. Quer Albano Belino, quer C. Alberto Brochado de
+Almeida consideram-no deslocado do sÃ­tio onde passaria a via. O primeiro,
+julga-o originÃ¡rio de CervÃ£es, Vila Verde. O segundo, das imediaÃ§Ãµes de
+Prado, tambÃ©m em Vila Verde. Encontra-se invertido, sendo por isso difÃ­cil
+de ler a inscriÃ§Ã£o. Altura: 245; Letras: 8. Existem duas inscriÃ§Ãµes, ambas
+incompletas: a inscriÃ§Ã£o primitiva seria de TibÃ©rio; a reinscriÃ§Ã£o serÃ¡ do
+tempo de Valentiniano e Valente.
+
+InscriÃ§Ã£o primitiva: Deveria ser semelhante Ã  que se encontra no miliÃ¡rio da
+Quinta de Germil, que assinala a milha II da mesma via. Pode ser datada de
+32-33.
+
+[TI(erius) CAESAR DIVI AV]G(usti) / [F(ilius), DIVI IVLI(i) NEPO]S
+IMP(erator) VIII (octavum) CONSVL V (quintum) TRIB(unicia) PO / TEST(ate)
+XXXIV (trigesima quarta) BRACARAVG(usta) (tria / quattuor? milia passuum)
+
+(TibÃ©rio CÃ©sar Augusto, filho do divino Augusto, neto do divino JÃºlio,
+PontÃ­fice MÃ¡ximo), saudado imperador oito vezes, cÃ´nsul pela quinta vez, no
+trigÃ©simo quarto poder tribunÃ­cio. Desde Braga sÃ£o trÃªs/ quatro ? milhas.
+
+ReinscriÃ§Ã£o: Feita no tempo de Valentiniano e Valente. DatÃ¡vel de 364-367.
+
+D(ominis) N(ostris duobus) VALENTINIANO / ET VALENTI FOR/ TISSIMIS PRINCIPI/
+BVS SEMP(er) AVGVSTIS BRACARAVG(usta) III / IIII (tria/ quattuor ? milia
+passuum)
+
+Aos nossos dois senhores Valentiniano e Valente fortÃ­ssimos prÃ­ncipes,
+Augustos para sempre. Desde Braga sÃ£o trÃªs / quatro ? milhas.
+ </DESARQ>
+ <INTERP>
+  MiliÃ¡rio da Via XIX, datado de 32-33, regravado entre 364-367.
+ </INTERP>
+ <BIBLIO>
+  BELINO, A. (1896). Novas inscriÃ§Ãµes romanas de Braga, Braga
+pp.45-48.
+ALMEIDA, C. A. B. (1979a). A rede viÃ¡ria do Conventus Bracaraugustanus - Via
+Bracara-Asturicam Quarta, MÃ­nia, 2 (3), Braga. pp.100, 101, 143.
+ </BIBLIO>
+ <BIBLIO>
+  ARAÃJO, J. R. (1982). Os miliÃ¡rios da estrada romana de Braga a
+Tuy. O Distrito de Braga, 5 (9), 2a. sÃ©rie, pp.147-148.
+ </BIBLIO>
+ <BIBLIO>
+  MARTINS, M. (1990) O Povoamento Proto-HistÃ³rico e a RomanizaÃ§Ã£o da
+Bacia do Curso do MÃ©dio CÃ¡vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 85.
+ </BIBLIO>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

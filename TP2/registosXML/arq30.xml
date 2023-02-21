@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Cruzeiro do Pilar
+ </IDENTI>
+ <DESCRI>
+  <LIGA TERMO="miliÃ¡rio">
+   MiliÃ¡rio
+  </LIGA>
+ </DESCRI>
+ <CRONO>
+  RomanizaÃ§Ã£o
+ </CRONO>
+ <LUGAR>
+  Lugar de Pilar
+ </LUGAR>
+ <FREGUE>
+  Fiscal
+ </FREGUE>
+ <CONCEL>
+  Amares
+ </CONCEL>
+ <CODADM>
+  030111
+ </CODADM>
+ <LATITU>
+  520,6
+ </LATITU>
+ <LONGIT>
+  178,5
+ </LONGIT>
+ <ALTITU>
+  100m
+ </ALTITU>
+ <ACESSO>
+  O
+  <LIGA TERMO="miliÃ¡rio">
+   miliÃ¡rio
+  </LIGA>
+  estÃ¡ no lugar de Pilar,
+entre S. Miguel de Fiscal e S. Martinho de Carrazedo, servindo como base de
+um cruzeiro.
+ </ACESSO>
+ <DESARQ>
+  <LIGA TERMO="miliÃ¡rio">
+   MiliÃ¡rio
+  </LIGA>
+  epigrafado, encimado por
+uma cruz. Altura: 166; diÃ¢metro: 29; letras: 8.
+
+
+[IMP]P(eratori). CAE[S(ari).M(arco)] / AVR(elio). CA[RO] / P(io) F(elici)
+I(nvicto) [AVG(usto)] / P(ontifici) M(aximo)...
+
+Ao Imperador CÃ©sar Marco AurÃ©lio Caro, Pio, Feliz, Invicto, Augusto,
+PontÃ­fex MÃ¡ximo...
+ </DESARQ>
+ <INTERP>
+  <LIGA TERMO="miliÃ¡rio">
+   MiliÃ¡rio
+  </LIGA>
+  pertencente Ã  Via Nova
+(Geira), datado de 282-283. Encontra-se deslocado.
+ </INTERP>
+ <BIBLIO>
+  BRANDÃO, D. P.(1962). As inscriÃ§Ãµs luso-romanas dos apontamentos de
+Frei Bento de Santa Gertrudes, Lucerna, 2 (1-2), Porto, pp. 25-29.
+ </BIBLIO>
+ <BIBLIO>
+  SOUSA, J. J. R.(1971-72). Nova ara dedicada aos Lares no conventus
+Bracaraugustano, Bracara Augusta, 25-26, 59-62 (71-74), pp.180.
+ </BIBLIO>
+ <BIBLIO>
+  MARTINS, M. (1990) O Povoamento Proto-HistÃ³rico e RomanizaÃ§Ã£o da
+Bacia do Curso do MÃ©dio CÃ¡vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 67-68.
+ </BIBLIO>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

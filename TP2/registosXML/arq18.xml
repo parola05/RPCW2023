@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Santa Iria
+ </IDENTI>
+ <DESCRI>
+  <LIGA TERMO="povoado fortificado">
+   Povoado fortificado
+  </LIGA>
+ </DESCRI>
+ <CRONO>
+  Proto-HistÃ³ria
+ </CRONO>
+ <LUGAR>
+  Monte de Santa Iria
+ </LUGAR>
+ <FREGUE>
+  Verim
+ </FREGUE>
+ <CONCEL>
+  PÃ³voa de Lanhoso
+ </CONCEL>
+ <CODADM>
+  030928
+ </CODADM>
+ <LATITU>
+  516
+ </LATITU>
+ <LONGIT>
+  184,8
+ </LONGIT>
+ <ALTITU>
+  110m
+ </ALTITU>
+ <QUADRO>
+  O Monte de Santa Iria Ã© uma pequena elevaÃ§Ã£o que se desenvolve num comprido
+e estreito esporÃ£o, paralelo ao rio CÃ¡vado. O monte localiza-se a cerca de
+1Km a Norte da igreja de Verim.
+ </QUADRO>
+ <TRAARQ>
+  NÃ£o sÃ£o conhecidos trabalhos arqueolÃ³gicos no local.
+ </TRAARQ>
+ <DESARQ>
+  Apesar da baixa altitude do cabeÃ§o, as suas vertentes sÃ£o abruptas, pelo que
+o povoado possui boas defesas naturais. Na parte mais alta do monte,
+circundando um tabuleiro razoavelmente plano, existem vestÃ­gios de um talude
+defensivo. Aparentemente o povoado possuiria apenas uma plataforma,
+enquadrando-se, deste modo, no conjunto de povoados de baixa altitude. Na
+supefÃ­cie do cabeÃ§o recolhem-se fragmentos de
+  <LIGA TERMO="cerÃ¢mica indÃ­gena">
+   cerÃ¢mica indÃ­gena
+  </LIGA>
+  de fabrico
+  <LIGA TERMO="micÃ¡ceo">
+   micÃ¡ceo
+  </LIGA>
+  . O sÃ­tio encontra-se bastante destruÃ­do.
+ </DESARQ>
+ <INTERP>
+  <LIGA TERMO="povoado fortificado">
+   Povoado fortificado
+  </LIGA>
+  proto-histÃ³rico.
+ </INTERP>
+ <BIBLIO>
+  MARTINS, M. (1990). O Povoamento Proto-HistÃ³rico e a RomanizaÃ§Ã£o da
+Bacia do Curso MÃ©dio do CÃ¡vado, Cadernos de Arqueologia - Monografias, 5,
+Universidade do Minho, Braga, pp. 93.
+ </BIBLIO>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

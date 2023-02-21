@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Outeiro das CorÃ§as
+ </IDENTI>
+ <DESCRI>
+  NecrÃ³pole megalÃ­tica
+ </DESCRI>
+ <CRONO>
+  PrÃ©-HistÃ³ria Recente
+ </CRONO>
+ <LUGAR>
+  Listoso
+ </LUGAR>
+ <FREGUE>
+  Passos (S. Vicente)
+ </FREGUE>
+ <CONCEL>
+  Fafe
+ </CONCEL>
+ <CODADM>
+  030719
+ </CODADM>
+ <LATITU>
+  501,4
+ </LATITU>
+ <LONGIT>
+  193,2
+ </LONGIT>
+ <ALTITU>
+  530m
+ </ALTITU>
+ <ACESSO>
+  Faz-se a partir da E. N. 207 (Braga - Fafe), toma-se o C.M. 1625 atÃ© S.
+Vicente de Passos. Depois, atÃ© Listoso pelo C.M. 1645-1.
+ </ACESSO>
+ <QUADRO>
+  Os monumentos localizam-se numa chÃ£ planÃ¡ltica, integrada na bacia
+hidrogrÃ¡fica do rio Ave.
+ </QUADRO>
+ <DESARQ>
+  Duas
+  <LIGA TERMO="mamoa">
+   mamoas
+  </LIGA>
+  muito destruÃ­das, certamente
+pertecente a uma necrÃ³pole megalÃ­tica que ocuparia a chÃ£ planaltica.
+ </DESARQ>
+ <AUTOR>
+  Manuela Martins
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

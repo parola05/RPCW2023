@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<ARQELEM>
+ <TIPO ASSUNTO="arqueossitio"/>
+ <IDENTI>
+  Paredes
+ </IDENTI>
+ <DESCRI>
+  Ponte; CalÃ§ada
+ </DESCRI>
+ <CRONO>
+  Idade MÃ©dia
+ </CRONO>
+ <LUGAR>
+  Ponte Velha
+ </LUGAR>
+ <FREGUE>
+  Salto
+ </FREGUE>
+ <CONCEL>
+  Montalegre
+ </CONCEL>
+ <CODADM>
+  170626
+ </CODADM>
+ <LATITU>
+  519,8
+ </LATITU>
+ <LONGIT>
+  211,8
+ </LONGIT>
+ <ALTITU>
+  830m
+ </ALTITU>
+ <ACESSO>
+  Sobre a Corga de CaniÃ§Ã³, a menos de 500 metros para Sul da aldeia de
+Paredes. O acesso faz-se a pÃ© (cerca de 10 minutos), por caminho carreteiro,
+a partir da aldeia de Paredes. A esta acede-se por estradÃ£o de terra batida,
+a partir da estrada municipal que liga Salto a RuivÃ£es por Zebral. O
+monumento nÃ£o estÃ¡ sinalizado.
+ </ACESSO>
+ <DESARQ>
+  Entre CaniÃ§Ã³ e Torrinheiras conserva-se o traÃ§ado da via medieval que dava
+ligaÃ§Ã£o a
+  <LIGA TERMO="cabeceira">
+   cabeceiras
+  </LIGA>
+  de Basto. AtÃ© Ã  Senhora
+dos Aflitos e sobretudo nas proximidades da aldeia de Paredes, conservam-se
+amplos troÃ§os de via lajeada, com 2,5m de largura mÃ©dia. Passa sobre a Corga
+de CaniÃ§Ã³, a cerca de 300 metros para Sul de Paredes, atravÃ©s de uma ponte
+de pedra de tradiÃ§Ã£o arquitectÃ³nica medieval, com tabuleiro em cavalete
+sobre um
+  <LIGA TERMO="arco">
+   arco
+  </LIGA>
+  de volta perfeita, bem aparelhado com
+  <LIGA TERMO="silhar">
+   silhares
+  </LIGA>
+  . Exceptuando a ponte, que necessita
+ser limpa e restaurada, a calÃ§ada e a envolvÃªncia paisagÃ­stica, com relevo
+para o tradicional ordenamento agrÃ¡rio da veiga, apresentam-se muito bem
+conservadas.
+ </DESARQ>
+ <INTERP>
+  Ponte e calÃ§ada medievais.
+ </INTERP>
+ <INTERE>
+  Embora nÃ£o possua um significativo valor patrimonial, este monumento tem
+muito interesse para a compreensÃ£o da rede de comunicaÃ§Ãµes medieval,
+oferecendo simultaneamente um elevado potencial para a implementaÃ§Ã£o de
+circuitos pedonais.
+ </INTERE>
+ <BIBLIO>
+  COSTA, J.G.(1968). Montalegre e Terras de Barroso. Montalegre, 1968.
+ </BIBLIO>
+ <BIBLIO>
+  FONTES, L.(1992). SÃ­tios e Achados ArqueolÃ³gicos do Concelho de
+Montalegre. Braga, 1992 (ediÃ§Ã£o policopiada da CCRN - Porto).
+ </BIBLIO>
+ <AUTOR>
+  Luis Fontes
+ </AUTOR>
+ <DATA>
+  04-FEV-1998
+ </DATA>
+</ARQELEM>

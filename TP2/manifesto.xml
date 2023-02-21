@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <título>Trabalho Prático 2</título>
+        <subtítulo>Criação de um servidor de registos do dataset arqueossítios em Node.js.</subtítulo>
+        <data>2023-02-21</data>
+        <autor>
+            <nome>Henrique Parola Meziara da Costa<nome>
+            <id>PG50415<id>
+            <gitlink>https://github.com/henriqueparola/RPCW2023</gitlink>
+        </autor> 
+        <uc>Representação e Processamento de Conhecimento na Web</uc>
+    </meta>
+    <resumo>
+        <p> Este projeto consiste na criação de um servidor de registos do dataset arqueossítios em Node.js. 
+        Para além do servidor concebido em Node.js, utilizou-se Python (nomeadamente a biblioteca BeautifulSoup) para  
+        a análise e parser do dataset arqueossítios disponível no formato XML.
+        </p>
+        <p> O servidor desenvolvido possui nomeadamente 3 funcionalidades: 
+        disponibilização individual dos registos do dataset em formato XML; 
+        disponibilização individual dos registos do dataset em formato HTML;
+        fornecimento de uma página inicial contendo um "índice" para navegar sobre os registos do dataset.
+        </p>
+        <p> Quanto a estrutura dos ficheiros elaborados no trabalho, temos o ficheiro geraIndexPage que 
+        cria a página index.html de acordo com os registos contido no ficheiro arq.xml. O ficheiro 
+        geraRegistosHTML e geraRegistosXML geram os ficheiros individuais dos regisots contidos em arq.xml, 
+        no formato html e xml, respetivamente, para as pastas registosHTML e registosXML. O servidor.js é o 
+        servidor em Node.js. Para corrê-lo para executar node servidor.js.
+        </p>
+        <p> Quanto ao funcionamento do servidor, para acessar aos arquivos XML individuais de cada registo 
+        basta inserir o path: "{formato}/{numRegisto}" onde "formato" pode ser xml ou html e "numRegisto" é 
+        um número inteiro correspondente a ordem mostrada no índice presente na página index.html. A página 
+        index.html possui a lista de registos, apenas com a identificação dos sítios arqueológicos enumerados
+        por ordem alfabética.~
+        </p>
+    </resumo>
+    <resultados>
+        <resultado path="geraIndexPage.py">Gerador da página index</resultado>
+        <resultado path="geraRegistosHTML.py">Gerador dos registos individuais em HTML</resultado>
+        <resultado path="geraRegistosXML.py">Gerador dos registos individuais em XML</resultado>
+        <resultado path="servidor.js">Servidor</resultado>
+        <resultado path="arq.js">Dataset</resultado>
+    </resultados>
+</manifesto>

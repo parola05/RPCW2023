@@ -27,6 +27,11 @@ bs_content = bs(content, features="xml")
 
 registos = bs_content.find_all("ARQELEM")
 
+def ordRegistos(registo):
+    return registo.find("IDENTI").text
+
+registos.sort(key=ordRegistos)
+
 i = 0
 for registo in registos:
     identiiText = registo.find("IDENTI").text

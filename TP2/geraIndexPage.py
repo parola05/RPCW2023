@@ -1,9 +1,9 @@
 pagWeb = """
 <!DOCTYPE html>
 <html>
-    <header>
-        <meta charset="iso-8859-1" />
-    </header>
+    <head>
+        <meta charset="utf-8" />
+    </head>
     <body>
         <div style="width:100%;display:flex;flex-direction:column;align-items:center;margin:auto">
             <div style="width:100%;background-color:#232323;display:flex;flex-direction:column;align-items:center;margin:auto">
@@ -19,7 +19,7 @@ from bs4 import BeautifulSoup as bs
 
 content = []
 
-with open("arq.xml", "r", encoding="iso-8859-1") as file:
+with open("arq.xml", "r", encoding="utf-8") as file:
     content = file.readlines()
 content = "".join(content)
 
@@ -45,6 +45,6 @@ pagWeb +=  """ </table>
 </html>
 """
 
-f = open("index.html", "w", encoding="iso-8859-1")
+f = open("index.html", "w", encoding="utf-8")
 f.write(pagWeb)
 f.close()

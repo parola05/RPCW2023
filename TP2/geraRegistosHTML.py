@@ -17,9 +17,9 @@ for registo in registos:
 
     pagWeb = """<!DOCTYPE html>
 <html>
-    <header>
+    <head>
         <meta charset="utf-8" />
-    </header>
+    </head>
     <body>
         <div style="width:100%;display:flex;flex-direction:column;align-items:center;margin:auto">
             <div style="width:100%;background-color:#232323;display:flex;flex-direction:column;align-items:center;margin:auto">
@@ -157,7 +157,7 @@ for registo in registos:
 </html>
 """
 
-    f = open("registosHTML/arq" + str(i) + ".html", "w",encoding="iso-8859-1")
+    f = open("registosHTML/arq" + str(i) + ".html", "w",encoding="utf-8")
     f.write(pagWeb)
     f.close()
     i = i + 1

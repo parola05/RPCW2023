@@ -4,7 +4,8 @@
   "description": "serviço sobre o dataset Pessoas utilizando a API de dados json-server",
   "main": "servidor.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node servidor.js"
   },
   "keywords": [
     "json-server"

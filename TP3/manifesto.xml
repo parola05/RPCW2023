@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <título>Trabalho Prático 3</título>
+        <subtítulo></subtítulo>
+        <data>2023-02-27</data>
+        <autor>
+            <nome>Henrique Parola Meziara da Costa<nome>
+            <id>PG50415<id>
+            <gitlink>https://github.com/henriqueparola/RPCW2023</gitlink>
+        </autor> 
+        <uc>Representação e Processamento de Conhecimento na Web</uc>
+    </meta>
+    <resumo>
+        <p> 
+        </p>
+        <p>
+        </p>
+        <p>
+        </p>
+    </resumo>
+    <resultados>
+        <resultado path=""></resultado>
+    </resultados>
+</manifesto>

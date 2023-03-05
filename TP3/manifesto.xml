@@ -3,7 +3,7 @@
     <meta>
         <título>Trabalho Prático 3</título>
         <subtítulo></subtítulo>
-        <data>2023-02-27</data>
+        <data>2023-03-05</data>
         <autor>
             <nome>Henrique Parola Meziara da Costa<nome>
             <id>PG50415<id>
@@ -12,14 +12,45 @@
         <uc>Representação e Processamento de Conhecimento na Web</uc>
     </meta>
     <resumo>
-        <p> 
+        <p> Este projeto consiste na criação de um serviço em Node.js sobre o dataset <xref url="https://epl.di.uminho.pt/~jcr/AULAS/ATP2022/">
+        Pessoas </xref>, utilizando a API de dados <b>json-server</b>. Utilizou-se a <i>framework<i> de CSS da <b>w3school</b> para a estilização das páginas Web.
         </p>
         <p>
+        O servidor desenvolvido possui as seguintes  funcionalidades: listagem de todas as pessoas do <i>dataset</i> ordenadas alfabeticamente; 
+        listagem das pessoas do <i>dataset<i> separadas por <b>sexo</b> por ordem alfabetica (com a informação da quantidade de pessoas de cada sexo); 
+        listagem das pessoas do <i>dataset</i> separadas por <b>desportos (com a informação da quantidade de pessoas que praticam cada desporto, sendo
+        os desportos ordenados de maneira descrescente e as pessoas de cada desporto alfabeticamente)</b>;
+        listagem das pessoas do <i>dataset</i> separadas pelas <b>profissões</b> (somente o top 10 das profissões mais exercidas, sendo as pessoas
+        que exercem cada profissão ordenadas por ordem alfabetica). Para além disto, como a dispobilização dos dados das pessoas em tabelas/listas são 
+        limitados, pode-se acessar a totalidade dos dados ao clicar no botão <b>Ver mais</b> dispobilizado nas listas/tabelas.
         </p>
         <p>
+        Quando ao funcionamento do servidor, temos então as seguintes <b>rotas</b>: 
+        <i>/</i> retorna página index.html, contendo um link de ligação para as restantes páginas da aplicação;
+        <i>/pessoas</i>retorna página HTML com a listagem de todas as pessoas por ordem alfabética;
+        <i>/pessoas-por-sexo</i>retorna a página HTML com a listagem das pessoas por ordem alfabética separadas pelo seu sexo;
+        <i>/desportos</i> retorna uma página HTML com todos os desportos armazenados, por ordem descrescente de número de pessoas que o praticam: 
+        <i>/profissoesTop10</i> retorna uma página HTML com o Top 10 de profissões mais exercidas;
+        <i>/pessoa/{id}</i> retorna a página HTML com descrição completa da pessoa com o id dado.
+        </p>
+        <p>
+        Estrutura de ficheiros: o ficheiro <i>mypages.js</i> possui os métodos que criam as páginas HTML 
+        (na forma de <i>string</i>) que serão enviadas nas resposta ao cliente, com <i>content-type</i> sendo <i>text/html</i>;
+        O ficheiro <i>index.html</i> possui a página inicial do serviço, caracterizada por possuir </i>links</i> para algumas 
+        outras outras páginas do serviço; <i>servidor.js</i> é o servidor em Node.js, possuidor das <i>rotas</i> que o serviço dispõem;
+        <i>w3.css</i> contém o código CSS da <i>framework</i> de CSS da <i>w3school</i> que é utilizada nas páginas Web; 
+        <i>package.json</i> é o arquivo de metadados utilizado em projetos Node.js para gerenciar as dependências do projeto.
+        </p>
+        <p>
+        Devido ao servidor estar sendo contruído com recurso ao <b>npm</b>, a sua execução faz-se do seguinte modo: 
+        "npm install; npm start"
         </p>
     </resumo>
     <resultados>
-        <resultado path=""></resultado>
+        <resultado path="mypages.js">script para criação dinâmica das páginas</resultado>
+        <resultado path="servidor.js">Servidor</resultado>
+        <resultado path="w3.css">Framework CSS w3school</resultado>
+        <resultado path="index.html">Página Inicial (index)</resultado>
+        <resultado path="dataset-extra1.json">Dataset</resultado>
     </resultados>
 </manifesto>

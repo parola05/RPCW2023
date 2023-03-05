@@ -68,22 +68,36 @@ http.createServer(function(req, res){
             axios.get("http://localhost:3000/pessoas?_sort=nome&_order=asc")
                 .then(function(resp){
                     var pessoas = resp.data
-                    listaDesportos = []
+                    var desportosMap = new Map()
 
-                    // filtragem de desportos existentes
+                    // filtragem de desportos existentes + quantidade de pessoas que o praticam
                     for (let pessoa of pessoas){
                         var desportos = pessoa.desportos
                         for (let desporto of desportos){
-                            if (!listaDesportos.includes(desporto)){
-                                listaDesportos.push(desporto)
+                            if (!desportosMap.has(desporto)){
+                                desportosMap.set(desporto, 1)
+                            }else{
+                                quantidade = desportosMap.get(desporto)
+                                desportosMap.set(desporto, quantidade + 1)
                             }
                         }
                     }
+                    
 
-                    listaDesportos.sort()
+                    const desportosListKeys = Array.from(desportosMap.keys());
+                    const desportosListValues = Array.from(desportosMap.values())
+                    desportosList = []
+                    var i = 0
+                    for (; i < desportosListKeys.length; i++){
+                        desportosList.push({nome: desportosListKeys[i], quantidade: desportosListValues[i]})
+                    }
+
+                    desportosList.sort(
+                        (p1,p2) => (p1.quantidade > p2.quantidade) ? -1: 1
+                    )
 
                     res.writeHead(200, {'Content-Type': 'text/html ;charset=utf-8'})
-                    res.end(mypages.desportosPage(listaDesportos))
+                    res.end(mypages.desportosPage(desportosList))
                 })
                 .catch( erro => {
                     console.log("sErro: " + erro)
@@ -150,7 +164,7 @@ http.createServer(function(req, res){
                     res.end("ERRO: " + erro)
                 })
         }else{
-            axios.get("http://localhost:3000/pessoas?profissao=" + q.profissao)
+            axios.get("http://localhost:3000/pessoas?_sort=nome&_order=asc&profissao=" + q.profissao)
                 .then(function(resp){
                     var pessoas = resp.data
 

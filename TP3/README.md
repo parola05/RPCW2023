@@ -1,6 +1,6 @@
 # TP3
 
-Criar um serviço em Node.js sobre o dataset [Pessoas](https://epl.di.uminho.pt/~jcr/AULAS/ATP2022/), utilizando a API de dados **json-server**.
+Criação de um serviço em Node.js sobre o dataset [Pessoas](https://epl.di.uminho.pt/~jcr/AULAS/ATP2022/), utilizando a API de dados **json-server**.
 
 ![enter image description here](https://raw.githubusercontent.com/henriqueparola/RPCW2023/master/TP3/images/banner.png)
 

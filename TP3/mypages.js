@@ -69,6 +69,7 @@ exports.pessoasPorSexoPage = function(listaMasculino, listaFeminino, listaOutro)
                     <div class="w3-row">
                         <div class="w3-col s4 m4 l4">
                             <h2>Sexo masculino</h2> 
+                            <h3>Total: <b>${listaMasculino.length} </b>pessoas<h3>
                             <ul class="w3-ul">
                 `
                 for(let i = 0; i < listaMasculino.length; i++){
@@ -81,12 +82,13 @@ exports.pessoasPorSexoPage = function(listaMasculino, listaFeminino, listaOutro)
                         </div>
                         <div class="w3-col s4 m4 l4">
                             <h2>Sexo feminino</h2> 
+                            <h3>Total: <b>${listaFeminino.length} </b> pessoas<h3>
                             <ul class="w3-ul">
                 `
 
                 for(let i = 0; i < listaFeminino.length; i++){
                     pagHTML += `
-                        <li><a href="/pessoa?pessoa=${listaFeminino[i].id}" style="text-decoration:none">${listaFeminino[i].nome}</a></li>
+                        <li><a href="/pessoa?id=${listaFeminino[i].id}" style="text-decoration:none">${listaFeminino[i].nome}</a></li>
                     `
                 }
 
@@ -94,23 +96,23 @@ exports.pessoasPorSexoPage = function(listaMasculino, listaFeminino, listaOutro)
                         </div>
                         <div class="w3-col s4 m4 l4">
                             <h2>Outro</h2> 
+                            <h3>Total: <b>${listaOutro.length} </b> pessoas<h3>
                             <ul class="w3-ul">
                 `
 
                 for(let i = 0; i < listaOutro.length; i++){
                     pagHTML += `
-                        <li> <a href="/pessoa?pessoa=${listaOutro[i].id}" style="text-decoration:none">${listaOutro[i].nome}</a></li>
+                        <li> <a href="/pessoa?id=${listaOutro[i].id}" style="text-decoration:none">${listaOutro[i].nome}</a></li>
                     `
                 }
     pagHTML += `
                     </ul>
                 </div>
             </div>
-
-            <footer class="w3-container w3-blue">
-                <h5>Generated in RPCW 2023</h5>
-            </footer>
-
+        </div>    
+        <footer class="w3-container w3-blue">
+            <h5>Generated in RPCW 2023</h5>
+        </footer>
         </div>
         </table>
     </body>
@@ -140,7 +142,7 @@ exports.desportosPage = function(desportos){
     `
     for (let desporto of desportos) {
         pagHTML += `
-            <li><a style="text-decoration:none;" href="/desportos?desporto=${desporto}">${desporto}</a></li>
+            <li><a style="text-decoration:none;" href="/desportos?desporto=${desporto.nome}">${desporto.nome}</a>: <b>${desporto.quantidade}</b> pessoas</li>
         `
     }
     
@@ -322,18 +324,50 @@ exports.pessoaPage = function(pessoa){
             <div class="w3-card-4">
 
                 <header class="w3-container w3-blue">
-                    <h1>Descrição Pessoa"</h1>
+                    <h1>Descrição <b>Pessoa</b></h1>
                 </header>
 
                 <div class="w3-container">
                     <div class="w3-row">
                         <div class="w3-col m4 l3">
                             <h1>${pessoa.nome}</h1>
-                            <h2>${pessoa.idade}</h2>
-                            <h3>${pessoa.sexo}</h3>
+                            <h2>${pessoa.idade} Anos</h2>
+                            <h3>Sexo: ${pessoa.sexo}</h3>
                         </div>
-                        <div class="w3-col m8 l9">
-                       
+                        <div class="w3-col m4 l4">
+                            <h3><b>BI:</b> ${pessoa.BI}</h3>
+                            <h3><b>Profissão</b>: ${pessoa.profissao}</h3>
+                            <h3><b>Religião</b>: ${pessoa.religiao}</h3>
+                            <h3><b>CC</b>: ${pessoa.CC}</h3>
+
+                            <h2>Animais</h2>
+                                <ul>
+                                    `
+                                for(animal of pessoa.animais)
+                                    pagHTML += `<li>${animal}</li> `
+                                    
+                                pagHTML +=   `
+                                </ul>
+                        </div>
+
+                        <div class="w3-col m4 l4">
+                            <h2>Desportos praticados</h2>
+                            <ul>
+                                `
+                    for(desporto of pessoa.desportos)
+                        pagHTML += `<li>${desporto}</li> `
+                        
+                    pagHTML +=   `
+                            </ul>
+
+                            <h2>Destinos favoritos</h2>
+                            <ul>
+                                `
+                    for(destino of pessoa.destinos_favoritos)
+                        pagHTML += `<li>${destino}</li> `
+                        
+                    pagHTML +=   `
+                            </ul>
                         </div>
                     </div>
                 </div>

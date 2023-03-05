@@ -31,7 +31,7 @@
         basta inserir o path: "{formato}/{numRegisto}" onde "formato" pode ser xml ou html e "numRegisto" é 
         um número inteiro correspondente a ordem mostrada no índice presente na página index.html. A página 
         index.html possui a lista de registos, apenas com a identificação dos sítios arqueológicos enumerados
-        por ordem alfabética.~
+        por ordem alfabética.
         </p>
     </resumo>
     <resultados>

@@ -3,7 +3,7 @@
     <meta>
         <título>Trabalho Prático 1</título>
         <subtítulo>Criação de uma página Web sobre o tema Henriqueta</subtítulo>
-        <data>2023-01-14</data>
+        <data>2023-02-14</data>
         <autor>
             <nome>Henrique Parola Meziara da Costa<nome>
             <id>PG50415<id>
@@ -23,7 +23,7 @@
         ao início da página, botão de encaminhamento a secção de referências e disponibilização dos meus contactos de trabalho. 
         Uma <b>Capa</b>, contendo uma breve descrição da plataforma, assim como uma espécie de índice, que contém <i>bookmarks</i> para 
         cada uma das quatro secções da <i>webpage</i>. Ainda há uma simples animação contendo um resumo de cada secção ao passar o rato 
-        por cima do índice. Existem ainda quatro <b>secções de conteúdo</b: significado do nome Henriqueta; personalidade; popularidade e informações 
+        por cima do índice. Existem ainda quatro <b>secções de conteúdo</b>: significado do nome Henriqueta; personalidade; popularidade e informações 
         sobre o nome. Por fim, há uma secção de <b>Referências</b>, onde são expostos alguns <i>links</i> para os sites utilizados como fontes 
         de conteúdo. </p>
         <p> Em suma, neste mesmo diretório, existe o ficheiro HTML <xref url="index.html"> index </xref>, 

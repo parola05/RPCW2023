@@ -1,0 +1,53 @@
+{
+  "tasks": [
+    {
+      "feito": false,
+      "ateQuando": "10-3-2023",
+      "quem": "Henrique",
+      "oQue": "Comprar",
+      "id": 0
+    },
+    {
+      "id": 1,
+      "ateQuando": "7-8-2023",
+      "quem": "José Pedro",
+      "oQue": "Lavar roupas",
+      "feito": true
+    },
+    {
+      "feito": true,
+      "ateQuando": "2023-03-09",
+      "quem": "Alfredo",
+      "oQue": "Comprar",
+      "id": 5
+    },
+    {
+      "feito": true,
+      "ateQuando": "2023-03-11",
+      "quem": "Mariano",
+      "oQue": "Comprar",
+      "id": 6
+    },
+    {
+      "feito": false,
+      "ateQuando": "2023-03-08",
+      "quem": "Pitagoras",
+      "oQue": "Fazer",
+      "id": 7
+    },
+    {
+      "feito": false,
+      "ateQuando": "2023-03-15",
+      "quem": "Messi",
+      "oQue": "Ganhar",
+      "id": 8
+    },
+    {
+      "feito": true,
+      "ateQuando": "2023-03-09",
+      "quem": "Lucas",
+      "oQue": "Dar",
+      "id": 9
+    }
+  ]
+}

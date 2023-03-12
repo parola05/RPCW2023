@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <título>Trabalho Prático 4</título>
+        <subtítulo>Criação de uma single page application (SPA) para uma To-Do list utilizando Node.js e a API de dados json-server.</subtítulo>
+        <data>2023-03-12</data>
+        <autor>
+            <nome>Henrique Parola Meziara da Costa<nome>
+            <id>PG50415<id>
+            <gitlink>https://github.com/henriqueparola/RPCW2023</gitlink>
+        </autor> 
+        <uc>Representação e Processamento de Conhecimento na Web</uc>
+    </meta>
+    <resumo>
+        <p> 
+            Este projeto consistiu na criação de uma <i>single page application (SPA) </i> para uma <i> To-Do list </i> utilizando Node.js e a API de dados json-server.
+        </p>
+        <p>
+            A aplicação desenvolvida possui as seguintes funcionalidades:
+            criação de uma <i>task</i>;
+            listagem de <i>tasks</i> feitas e <i>tasks</i> por fazer;
+            atualização do estado da <i>task</i> (alterar entre por fazer e feito)
+            remoção de uma <i>task</i> do sistema.
+        </p>
+        <p>
+            Quanto a estrutura de ficheiros,
+            o ficheiro <i>template.js</i> possui o método - <i>todoPage()</i> - que cria a única página HTML (na forma de string) que é enviada na resposta ao cliente, com content-type sendo text/html.
+            O <i>servidor.js</i> é o servidor em Node.js. Para corrê-lo basta executar node servidor.js. Possui as rotas que o serviço dispõem.
+            O arquivo <i>public/w3.css</i> contém o código CSS da framework de CSS da w3school que é utilizada nas páginas Web.
+            O ficheiro <i>package.json</i> é o arquivo de metadados utilizado em projetos Node.js para gerenciar as dependências do projeto.
+            Por fim, <i>static.js</i> possui a função - <i>staticResource()</i> - que detecta se uma rota solicitada é sobre um recurso estático, assim como a função - <i>serveStaticResource()</i> - que lida com pedidos de recursos estáticos, como ficheiros de estilização e imagens.
+        </p>
+        <p>
+        Sobre o funcionamento das rotas, temos a seguinte rota GET: <i>/</i> que disponibiliza a única página HTML da aplicação.
+        Quanto as rotas POST, temos <i>/</i> que cria uma <i>task</i>, <i>/update</i> que atualiza o estado de uma determinada <i>task</i> e 
+        a rota  <i>/delete</i> que remove a <i>task</i> do sistema.
+        </p>
+        <p>
+        Devido ao servidor estar sendo contruído com recurso ao <b>npm</b>, a sua execução faz-se do seguinte modo: 
+        "npm install; npm start"
+        </p>
+    </resumo>
+    <resultados>
+        <resultado path="template.js">Script para criação dinâmica da única página HTML</resultado>
+        <resultado path="servidor.js">Servidor</resultado>
+        <resultado path="static.js">Funções que lidam com recursos estáticos</resultado>
+        <resultado path="public/w3.css">Framework CSS w3school</resultado>
+        <resultado path="dataset.json">Dataset</resultado>
+        <resultado path="README.md">README do projeto</resultado>
+    </resultados>
+</manifesto>

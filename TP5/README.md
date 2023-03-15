@@ -9,8 +9,8 @@ A aplicação desenvolvida possui as funcionalidades descritas no TP4.
 
 ### Estrutura de ficheiros
 * ***routes*** é o diretório das rotas (definição dos *endpoints*) da aplicação.
-* ***controllers/*** é o diretório com os controladores da aplicação. Os controladores realizam a conexão da camada de dados com os roteadores, abstraindo alguma lógica do«estes últimos.
-* ***views*** é o diretório com os *templates* em Pug utilizados.
+* ***controllers/*** é o diretório com os controladores da aplicação. Os controladores realizam a conexão da camada de dados com os roteadores, abstraindo alguma lógica destes últimos.
+* ***views/*** é o diretório com os *templates* em Pug utilizados.
 * ***app.js*** é o arquivo com as configurações da app express.
 * ***bin/*** é o diretório que contém as configurações de arranque do servidor.
 * ***public/*** é o diretório de imagens, arquivos *javascript* e *css* (único *css* usado é o da w3school) 

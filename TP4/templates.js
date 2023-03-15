@@ -6,7 +6,7 @@ exports.todoPage = function(tasks, d){
             <meta charset="UTF-8"/>
             <link rel="icon" href="favicon.png"/>
             <link rel="stylesheet" href="w3.css"/>
-            <title>Student Management</title>
+            <title>ToDo App</title>
         </head>
         <body>
             <div class="w3-card-4">

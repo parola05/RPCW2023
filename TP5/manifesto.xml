@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <título>Trabalho Prático 5</título>
+        <subtítulo>Refactor do TP4  utilizando o <i>Express</i>, com a estrutura de ficheiros base automatizada pelo <b>express-generator</b> e <b>pug</b> como <i>view-engine</i></subtítulo>
+        <data>2023-03-15</data>
+        <autor>
+            <nome>Henrique Parola Meziara da Costa<nome>
+            <id>PG50415<id>
+            <gitlink>https://github.com/henriqueparola/RPCW2023</gitlink>
+        </autor> 
+        <uc>Representação e Processamento de Conhecimento na Web</uc>
+    </meta>
+    <resumo>
+        
+    </resumo>
+    <resultados>
+    </resultados>
+</manifesto>

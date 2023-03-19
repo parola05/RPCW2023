@@ -12,8 +12,36 @@
         <uc>Representação e Processamento de Conhecimento na Web</uc>
     </meta>
     <resumo>
-        
+        <p>
+            Este trabalho consistiu da <b>refactorização</b> do TP4, no qual uma aplicação de
+            <i>ToDo list</i> em NodeJS foi proposta. Com as mesmas funcionalidades anteriormente
+            listadas, o sistema foi remodelado com a utilização da <i>framework</i> <b>Express</b> e,
+            para além disso, foi utilizada a arquitetura <b>MVC</b> (na realidade ainda sem <i>Model</i>,
+            utilizando ainda os dados brutos do <b>json-server</b>).
+        </p>
+        <p>
+            Quanto a estrutura de ficheiros:
+                <i>routes</i> é o diretório das rotas (definição dos <i>endpoints</i>) 
+                da aplicação;
+                </i>controllers</i> é o diretório com os controladores da aplicação. 
+                Os controladores realizam a conexão da camada de dados com os roteadores, 
+                abstraindo alguma lógica destes últimos;
+                <i>views</i> é o diretório com os <i>templates</i> em Pug utilizados;
+                <i>app</i> é o arquivo com as configurações da app express.
+                <i>bin</i> é o diretório que contém as configurações de arranque do servidor;
+                <i>public</i> é o diretório de imagens, arquivos javascript e css (único css usado é o da W3school);
+                <i>package.json</i> é o arquivo de metadados utilizado em projetos Node.js para gerenciar as dependências do projeto.
+                <i>dataset.json</i> é uma representação da base de dados utilizada pela aplicação.
+        </p>
     </resumo>
     <resultados>
+        <resultado path="app.js">App</resultado>
+        <resultado path="bin/www">Bin</resultado>
+        <resultado path="controllers/todo.js">Controller</resultado>
+        <resultado path="public/stylesheets/w3.css">Framework CSS w3school</resultado>
+        <resultado path="dataset.json">Dataset</resultado>
+        <resultado path="README.md">README do projeto</resultado>
+        <resultado path="routes/todo.js">Roteador</resultado>
+        <resultado path="views/">Views</resultado>
     </resultados>
 </manifesto>

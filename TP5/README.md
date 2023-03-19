@@ -15,7 +15,7 @@ A aplicação desenvolvida possui as funcionalidades descritas no TP4.
 * ***bin/*** é o diretório que contém as configurações de arranque do servidor.
 * ***public/*** é o diretório de imagens, arquivos *javascript* e *css* (único *css* usado é o da w3school) 
 * ***package.json*** é o arquivo de metadados utilizado em projetos Node.js para gerenciar as dependências do projeto.
-* ***package.json*** é uma representação da base de dados utilizada pela aplicação.
+* ***dataset.json*** é uma representação da base de dados utilizada pela aplicação.
 
 ### Funcionamento das rotas
 

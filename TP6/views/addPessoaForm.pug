@@ -1,0 +1,121 @@
+extends layout 
+block content 
+
+    .w3-card-4
+        header.w3-container.w3-purple
+            h2 Pessoa Form
+        form.w3-container(method="POST")
+            fieldset
+                legend Metadata
+                label Id
+                input.w3-input.w3-round(type="text" name="id")
+                label Name
+                input.w3-input.w3-round(type="text" name="nome")
+                label CC
+                input.w3-input.w3-round(type="text" name="CC")
+                label Idade
+                input.w3-input.w3-round(type="text" name="idade")
+                label Descrição
+                input.w3-input.w3-round(type="text" name="descrição")
+                label BI
+                input.w3-input.w3-round(type="text" name="BI")
+                label Profissão
+                input.w3-input.w3-round(type="text" name="profissao")
+                label Religião
+                input.w3-input.w3-round(type="text" name="religiao")
+                label Marca Carro
+                input.w3-input.w3-round(type="text" name="marca_carro")
+                
+            fieldset#desportos 
+                legend Desportos
+                input.w3-input.w3-round(type="text" name="desportos")
+                a.w3-btn.w3-purple.w3-mb-2(onclick="addDesporto()") Adicionar mais um desporto
+                script.
+                    function addDesporto() {
+                        var newInput = document.createElement('input');
+                        newInput.setAttribute('type', 'text');
+                        newInput.setAttribute('name', 'desportos');
+                        var fieldset = document.getElementById('desportos');
+                        fieldset.appendChild(newInput);
+                    }
+                
+            fieldset#animais
+                legend Animais
+                input.w3-input.w3-round(type="text" name="animais")
+                a.w3-btn.w3-purple.w3-mb-2(onclick="addAnimal()") Adicionar mais um animal
+                script.
+                    function addAnimal() {
+                        var newInput = document.createElement('input');
+                        newInput.setAttribute('type', 'text');
+                        newInput.setAttribute('name', 'animais');
+                        var fieldset = document.getElementById('animais');
+                        fieldset.appendChild(newInput);
+                    }
+
+            fieldset#destinos
+                legend Destinos favoritos
+                input.w3-input.w3-round(type="text" name="destinos_favoritos")
+                a.w3-btn.w3-purple.w3-mb-2(onclick="addDestino()") Adicionar mais um destino
+                script.
+                    function addDestino() {
+                        var newInput = document.createElement('input');
+                        newInput.setAttribute('type', 'text');
+                        newInput.setAttribute('name', 'destinos_favoritos');
+                        var fieldset = document.getElementById('destinos');
+                        fieldset.appendChild(newInput);
+                    }
+
+            fieldset#figuras
+                legend Figuras públicas
+                input.w3-input.w3-round(type="text" name="figura_publica_pt")
+                a.w3-btn.w3-purple.w3-mb-2(onclick="addFigura()") Adicionar mais uma figura
+                script.
+                    function addFigura() {
+                        var newInput = document.createElement('input');
+                        newInput.setAttribute('type', 'text');
+                        newInput.setAttribute('name', 'figura_publica_pt');
+                        var fieldset = document.getElementById('figuras');
+                        fieldset.appendChild(newInput);
+                    }
+                
+            fieldset
+                legend Morada
+                label Cidade
+                input.w3-input.w3-round(type="text" name="cidade")
+                label Distrito
+                input.w3-input.w3-round(type="text" name="distrito")
+            
+            fieldset
+                legend Partido Político
+                label Abreviação
+                input.w3-input.w3-round(type="text" name="party_abbr")
+                label Nome
+                input.w3-input.w3-round(type="text" name="party_name")
+
+            fieldset
+                legend Atributos
+                label Comida favorita
+                input.w3-input.w3-round(type="text" name="comida_favorita")
+                input.w3-check(type="checkbox" name="fumador" value="1")
+                label Fumador
+                input.w3-check(type="checkbox" name="gosta_cinema" value="1")
+                label Gosta de cinema
+                input.w3-check(type="checkbox" name="gosta_viajar" value="1")
+                label Gosta de viajar
+                input.w3-check(type="checkbox" name="gosta_ler" value="1")
+                label Gosta de ler
+                input.w3-check(type="checkbox" name="acorda_cedo" value="1")
+                label Acorda cedo
+                input.w3-check(type="checkbox" name="gosta_musica" value="1")
+                label Gosta de Música
+                input.w3-check(type="checkbox" name="gosta_comer" value="1")
+                label Gosta de comer
+                input.w3-check(type="checkbox" name="gosta_animais_estimacao" value="1")
+                label Gosta de animais de estimação 
+                input.w3-check(type="checkbox" name="gosta_dancar" value="1")
+                label Gosta de dançar
+                    
+            button.w3-btn.w3-purple.w3-mb-2(type="submit") Add
+               
+        footer.w3-container.w3-purple
+            h5 Generated by EngWeb2023 in #{d} - [#[a(href="/") Return]]

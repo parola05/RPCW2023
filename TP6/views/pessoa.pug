@@ -1,0 +1,117 @@
+extends layout
+
+block content
+  .w3-card-4
+    header.w3-container.w3-teal
+      h1 Pessoa Record: #{p.id}
+    .w3-container
+      .w3-row
+        .w3-col.m4.l4
+          img.w3-left.w3-circle(src="/images/student.png" alt="Avatar" width="100")
+          ul.w3-ul.w3-card-4
+              li #[b ID:] #{p.id}
+              li #[b nome:] #{p.nome}
+              li #[b Descrição:] #{p.descrição}
+              li #[b BI:] #{p.BI}
+              li #[b Religião:] #{p.religiao}
+              li #[b Marca do Carro:] #{p.marca_carro}
+              li #[b CC:] #{p.CC}
+          .w3-row
+            .w3-col.m6.l6
+              .w3-margin
+                h3 Morada
+                ul.w3-ul.w3-card-4
+                  li #[b Cidade:] #{p.morada.cidade}
+                  li #[b Distrito:] #{p.morada.distrito}
+            .w3-col.m6.l6
+              .w3-margin
+                h3 Partido Político 
+                ul.w3-ul.w3-card-4
+                  li #[b Abbr:] #{p.partido_politico.party_abbr}
+                  li #[b Nome:] #{p.partido_politico.party_name}
+        .w3-col.m2.l2
+          .w3-margin
+            h3 Destinos Favoritos
+            ul.w3-ul.w3-card-4
+              each destino in p.destinos_favoritos 
+                li #{destino}
+        .w3-col.m2.l2
+          .w3-margin
+            h3 Desportos
+            ul.w3-ul.w3-card-4
+              each desporto in p.desportos
+                li #{desporto}
+        .w3-col.m2.l2
+          .w3-margin
+            h3 Animais
+            ul.w3-ul.w3-card-4
+              each animal in p.animais 
+                li #{animal}
+        .w3-col.m2.l2
+          .w3-margin
+            h3 Figura Pública
+            ul.w3-ul.w3-card-4
+              each figura in p.figura_publica_pt 
+                li #{figura}
+      .w3-row 
+        fieldset 
+          legend Atributos
+          .w3-margin
+            if p.atributos.fumador
+              input.w3-check(type="checkbox" name="fumador" value="1" checked onclick="return false;")
+            else 
+              input.w3-check(type="checkbox" name="fumador" value="1" onclick="return false;")
+            label Fumador
+          .w3-margin
+            if p.atributos.gosta_cinema
+              input.w3-check(type="checkbox" name="gosta_cinema" value="1" checked onclick="return false;")
+            else 
+              input.w3-check(type="checkbox" name="gosta_cinema" value="1" onclick="return false;")
+            label Gosta de Cinema
+          .w3-margin
+            if p.atributos.gosta_viajar
+              input.w3-check(type="checkbox" name="gosta_viajar" value="1" checked onclick="return false;")
+            else 
+              input.w3-check(type="checkbox" name="gosta_viajar" value="1" onclick="return false;")
+            label Gosta de Viajar
+          .w3-margin
+            if p.atributos.acorda_cedo
+              input.w3-check(type="checkbox" name="acorda_cedo" value="1" checked onclick="return false;")
+            else 
+              input.w3-check(type="checkbox" name="acorda_cedo" value="1" onclick="return false;")
+            label Acorda Cedo 
+          .w3-margin
+            if p.atributos.gosta_ler
+              input.w3-check(type="checkbox" name="gosta_ler" value="1" checked onclick="return false;")
+            else 
+              input.w3-check(type="checkbox" name="gosta_ler" value="1" onclick="return false;")
+            label Gosta de Ler 
+          .w3-margin
+            if p.atributos.gosta_musica
+              input.w3-check(type="checkbox" name="gosta_musica" value="1" checked onclick="return false;")
+            else 
+              input.w3-check(type="checkbox" name="gosta_musica" value="1" onclick="return false;")
+            label Gosta de Música
+          .w3-margin
+            if p.atributos.gosta_musica
+              input.w3-check(type="checkbox" name="gosta_comer" value="1" checked onclick="return false;")
+            else 
+              input.w3-check(type="checkbox" name="gosta_comer" value="1" onclick="return false;")
+            label Gosta de Comer  
+          .w3-margin
+            if p.atributos.gosta_animais_estimacao
+              input.w3-check(type="checkbox" name="gosta_animais_estimacao" value="1" checked onclick="return false;")
+            else 
+              input.w3-check(type="checkbox" name="gosta_animais_estimacao" value="1" onclick="return false;")
+            label Gosta de Animais de Estimação
+          .w3-margin
+            if p.atributos.gosta_dancar
+              input.w3-check(type="checkbox" name="gosta_dancar" value="1" checked onclick="return false;")
+            else 
+              input.w3-check(type="checkbox" name="gosta_dancar" value="1" onclick="return false;")
+            label Gosta de Dançar 
+          .w3-margin 
+            p #[b Comida favorita:] #{p.atributos.comida_favorita}
+
+    footer.w3-container.w3-teal 
+      h5 Generated by RPCW2023 in #{d} - #[a(href="/") Return]

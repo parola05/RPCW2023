@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifesto>
+    <meta>
+        <título>Trabalho Prático 6</título>
+        <subtítulo>Criação de um serviço de gestão de <i>pessoas</i>  utilizando <i>Express</i>, <i>MongoDB</i>, <i>Pug</i> e o <i>dataset Pessoas</i></subtítulo>
+        <data>2023-03-26</data>
+        <autor>
+            <nome>Henrique Parola Meziara da Costa<nome>
+            <id>PG50415<id>
+            <gitlink>https://github.com/henriqueparola/RPCW2023</gitlink>
+        </autor> 
+        <uc>Representação e Processamento de Conhecimento na Web</uc>
+    </meta>
+    <resumo>
+        <p>
+            Este trabalho consistiu na <b>criação</b> de um serviço em NodeJS para o 
+            <i>dataset Pessoas</i>. A aplicação utiliza a <i>framework</i> <b>Express</b> e a
+            base de dados MongoDB. A aplicação estruturalmente segue a arquitetura <b>MVC</b>. 
+            Em termos de </i>front-end<i> foi utilizada como <i>view-engine</i> a linguagem Pug 
+            e como <i>framework</i> de estilização a <i>w3school</i>.
+        </p>
+        <p>
+            A aplicação desenvolvida possui as seguintes funcionalidades:
+                listar todas as pessoas do <i>dataset</i>;
+                visualizar as informações de uma <i>pessoa</i>;
+                adicionar uma <i>pessoa</i> no sistema;
+                deletar uma <i>pessoa</i> do sistema;
+                editar as informações de uma <i>pessoa</i> existente.
+        </p>
+        <p>
+            Quanto a estrutura de ficheiros:
+                <i>routes</i> é o diretório das rotas (definição dos <i>endpoints</i>) 
+                da aplicação;
+                </i>controllers</i> é o diretório com os controladores da aplicação. 
+                Os controladores realizam a conexão da camada de dados com os roteadores, 
+                abstraindo alguma lógica destes últimos;
+                <i>views</i> é o diretório com os <i>templates</i> em Pug utilizados;
+                <i>app</i> é o arquivo com as configurações da app express.
+                <i>bin</i> é o diretório que contém as configurações de arranque do servidor;
+                <i>public</i> é o diretório de imagens, arquivos javascript e css (único css usado é o da W3school);
+                <i>package.json</i> é o arquivo de metadados utilizado em projetos Node.js para gerenciar as dependências do projeto.
+                <i>models</i> é o diretório que contém os modelos da aplicação. Isto é, as estruturas que serão utilizadas como 
+                referências as coleções do MongoDB.
+        </p>
+    </resumo>
+    <resultados>
+        <resultado path="app.js">App</resultado>
+        <resultado path="bin/www">Bin</resultado>
+        <resultado path="controllers/pessoa.js">Controller</resultado>
+        <resultado path="public/stylesheets/w3.css">Framework CSS w3school</resultado>
+        <resultado path="README.md">README do projeto</resultado>
+        <resultado path="routes/index.js">Roteador</resultado>
+        <resultado path="views/">Views</resultado>
+        <resultado path="models/pessoa.js">Model</resultado>
+    </resultados>
+</manifesto>

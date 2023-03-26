@@ -20,7 +20,7 @@ router.get('/pessoas/registo', function(req, res, next) {
 
 router.get('/pessoas/:idPessoa', function(req, res, next) {
   var data = new Date().toISOString().substring(0, 16)
-  Pessoa.getAluno(req.params.idPessoa)
+  Pessoa.getPessoa(req.params.idPessoa)
     .then(pessoa => {
       res.render('pessoa', { p: pessoa, d: data });
     })
@@ -52,7 +52,7 @@ router.get('/pessoas/delete/:idPessoa', function(req, res, next) {
 });
 
 router.get('/pessoas/delete/:idPessoa/confirm', (req,res)=>{
-  Aluno.deleteAluno(req.params.idAluno)
+  Aluno.deletePessoa(req.params.idPessoa)
     .then(resposta => {
       res.redirect('/')
     })

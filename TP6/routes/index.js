@@ -40,19 +40,8 @@ router.get('/pessoas/edit/:idPessoa', function(req, res, next) {
     })
 });
 
-router.get('/pessoas/delete/:idPessoa', function(req, res, next) {
-  var data = new Date().toISOString().substring(0, 16)
-  Pessoa.getAluno(req.params.idPessoa)
-    .then(pessoa => {
-      res.render('deletePessoaForm', {p: pessoa, d: data})
-    })
-    .catch(erro => {
-      res.render('error', {error: erro, message: "Erro na obtenção do registo da pessoa"})
-    })
-});
-
-router.get('/pessoas/delete/:idPessoa/confirm', (req,res)=>{
-  Aluno.deletePessoa(req.params.idPessoa)
+router.get('/pessoas/delete/:idPessoa', (req,res)=>{
+  Pessoa.deletePessoa(req.params.idPessoa)
     .then(resposta => {
       res.redirect('/')
     })
